@@ -11,7 +11,7 @@ def github_api(url, headers, params=None):
     while url:
         resp = requests.get(url, headers=headers, params=params)
         if resp.status_code != 200:
-            raise Exception(f\"{resp.status_code} error: {resp.text}\nURL: {url}\")
+            raise Exception(f'{resp.status_code} error: {resp.text}\nURL: {url}')
         data = resp.json()
         if isinstance(data, dict) and 'items' in data:
             out.extend(data['items'])
@@ -19,46 +19,46 @@ def github_api(url, headers, params=None):
             out.extend(data)
         else:
             out.append(data)
-        link = resp.headers.get(\"link\", \"\")
+        link = resp.headers.get('link', '')
         url = None
-        for section in link.split(\",\"):
+        for section in link.split(','):
             if 'rel=\"next\"' in section:
-                url = section[section.find(\"<\")+1:section.find(\">\")]
+                url = section[section.find('<')+1:section.find('>')]
     return out
 
 def safe_desc(d):
     if not d:
-        return \"\"
-    return d.replace('\\n',\" \").replace('\\r', '').strip()
+        return ''
+    return d.replace('\n',' ').replace('\r', '').strip()
 
 def main():
     with open('config.json') as f:
         config = json.load(f)
-    username = config[\"github_username\"]
-    exclude = set(config.get(\"repo_exclude_list\", []))
-    cat_override = config.get(\"category_override\", {})
+    username = config['github_username']
+    exclude = set(config.get('repo_exclude_list', []))
+    cat_override = config.get('category_override', {})
 
-    token = os.getenv(\"GITHUB_TOKEN\")
-    headers = {\"Authorization\": f\"token {token}\"} if token else {}
+    token = os.getenv('GITHUB_TOKEN')
+    headers = {'Authorization': f'token {token}'} if token else {}
 
     # Owned + Forked
-    user_repos = github_api(f\"https://api.github.com/users/{username}/repos?per_page=100&type=owner\", headers)
+    user_repos = github_api(f'https://api.github.com/users/{username}/repos?per_page=100&type=owner', headers)
     owned, forked = [], []
     for r in user_repos:
         (forked if r['fork'] else owned).append(r)
 
     # Starred
-    starred = github_api(f\"https://api.github.com/users/{username}/starred?per_page=100\", headers)
+    starred = github_api(f'https://api.github.com/users/{username}/starred?per_page=100', headers)
 
     # Contributed: find repos where user made PRs
-    events = github_api(f\"https://api.github.com/users/{username}/events/public?per_page=100\", headers)
+    events = github_api(f'https://api.github.com/users/{username}/events/public?per_page=100', headers)
     contributed = []
     seen = set(r['full_name'] for r in owned + forked + starred)
     for e in events:
         if e['type'] in ('PushEvent', 'PullRequestEvent', 'IssuesEvent'):
             repo = e['repo']['name']
             if repo not in seen:
-                repo_resp = requests.get(f\"https://api.github.com/repos/{repo}\", headers=headers)
+                repo_resp = requests.get(f'https://api.github.com/repos/{repo}', headers=headers)
                 if repo_resp.status_code == 200:
                     r = repo_resp.json()
                     contributed.append(r)
@@ -81,43 +81,43 @@ def main():
             entries[idx] = (ovr, r)
 
     # Sort: category (Owned,Forked,Starred,Contributed), then alpha
-    cat_rank = {\"Owned\":0,\"Forked\":1,\"Starred\":2,\"Contributed\":3}
+    cat_rank = {'Owned':0,'Forked':1,'Starred':2,'Contributed':3}
     entries.sort(key=lambda t: (cat_rank.get(t[0],99), t[1]['name'].lower()))
 
     # Markdown lines
-    lines = [\"| Name | URL | Category | Description |\",\"|---|---|---|---|\"]
+    lines = ['| Name | URL | Category | Description |','|---|---|---|---|']
     for cat, r in entries:
-        n = r[\"name\"]
-        u = r[\"html_url\"]
+        n = r['name']
+        u = r['html_url']
         cat = cat_override.get(n, cat)
-        d = safe_desc(r.get(\"description\"))
-        lines.append(f\"| [{n}]({u}) | {u} | {cat} | {d} |\")
+        d = safe_desc(r.get('description'))
+        lines.append(f'| [{n}]({u}) | {u} | {cat} | {d} |')
 
     # Load readme template
-    with open(\"README.md\", \"r\", encoding=\"utf-8\") as f:
+    with open('README.md', 'r', encoding='utf-8') as f:
         text = f.read()
-    tbl_start = text.index(\"| Name\")
-    tbl_end = text.find(\"---table-end---\", tbl_start)
-    badge_placeholder = text.find(\"<!--BADGES-->\")
+    tbl_start = text.index('| Name')
+    tbl_end = text.find('---table-end---', tbl_start)
+    badge_placeholder = text.find('<!--BADGES-->')
 
-    last_updated = datetime.utcnow().strftime(\"%Y-%m-%d %H:%M UTC\")
-    new_table = \"\\n\".join(lines)
-    new_readme = text[:tbl_start] + new_table + \"\\n---table-end---\" + text[tbl_end+14:]
-    new_readme = new_readme.replace(\"<!--LAST_UPDATED-->\", last_updated)
+    last_updated = datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')
+    new_table = '\n'.join(lines)
+    new_readme = text[:tbl_start] + new_table + '\n---table-end---' + text[tbl_end+14:]
+    new_readme = new_readme.replace('<!--LAST_UPDATED-->', last_updated)
 
     # Add badges
-    badge_line = BADGE_TABLE.replace(\"MetaphyKing\", username)
+    badge_line = BADGE_TABLE.replace('MetaphyKing', username)
     if badge_placeholder != -1:
-        new_readme = new_readme.replace(\"<!--BADGES-->\", badge_line)
+        new_readme = new_readme.replace('<!--BADGES-->', badge_line)
 
-    with open(\"README.md\", \"w\", encoding=\"utf-8\") as f:
+    with open('README.md', 'w', encoding='utf-8') as f:
         f.write(new_readme)
 
     # Write badges.xml (last updated)
-    with open(\"badges.xml\", \"w\") as f:
-        f.write(f\"<badge>\\n  <lastUpdated>{last_updated}</lastUpdated>\\n</badge>\\n\")
+    with open('badges.xml', 'w') as f:
+        f.write(f'<badge>\n  <lastUpdated>{last_updated}</lastUpdated>\n</badge>\n')
 
-    print(\"Done. Catalog updated.\")
+    print('Done. Catalog updated.')
 
-if __name__ == \"__main__\":
+if __name__ == '__main__':
     main()
