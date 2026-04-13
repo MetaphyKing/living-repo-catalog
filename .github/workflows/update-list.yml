@@ -29,5 +29,5 @@ jobs:
       - name: Commit and push changes
         uses: EndBug/add-and-commit@v9
         with:
-          message: \"chore: auto-update living repo catalog\"
-          add: \"README.md badges.xml\"
+          message: 'chore: auto-update living repo catalog'
+          add: 'README.md badges.xml'
