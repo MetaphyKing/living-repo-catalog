@@ -1,10 +1,10 @@
-﻿import os
+import os
 import requests
 import json
 from datetime import datetime
 
-BADGE_TABLE = \"\"\"| ![Last Updated](https://img.shields.io/badge/dynamic/xml?label=Last%20updated&query=%2F%2Fbadge%2FlastUpdated&url=https%3A%2F%2Fraw.githubusercontent.com%2FMetaphyKing%2Fliving-repo-catalog%2Fmain%2Fbadges.xml) | ![Repo count](https://img.shields.io/badge/dynamic/json?label=Public%20Repos&query=%24.count&url=https%3A%2F%2Fapi.github.com%2Fusers%2FMetaphyKing%2Frepos) | ![Stars](https://img.shields.io/github/stars/MetaphyKing?style=social) | ![Forks](https://img.shields.io/github/forks/MetaphyKing?style=social) | ![Open Issues](https://img.shields.io/github/issues/MetaphyKing/living-repo-catalog) | ![Pull Requests](https://img.shields.io/github/issues-pr/MetaphyKing/living-repo-catalog) | ![Workflow](https://github.com/MetaphyKing/living-repo-catalog/actions/workflows/update-list.yml/badge.svg)\n|
-|---|---|---|---|---|---|---|\"\"\"
+BADGE_TABLE = """| ![Last Updated](https://img.shields.io/badge/dynamic/xml?label=Last%20updated&query=%2F%2Fbadge%2FlastUpdated&url=https%3A%2F%2Fraw.githubusercontent.com%2FMetaphyKing%2Fliving-repo-catalog%2Fmain%2Fbadges.xml) | ![Repo count](https://img.shields.io/badge/dynamic/json?label=Public%20Repos&query=%24.count&url=https%3A%2F%2Fapi.github.com%2Fusers%2FMetaphyKing%2Frepos) | ![Stars](https://img.shields.io/github/stars/MetaphyKing?style=social) | ![Forks](https://img.shields.io/github/forks/MetaphyKing?style=social) | ![Open Issues](https://img.shields.io/github/issues/MetaphyKing/living-repo-catalog) | ![Pull Requests](https://img.shields.io/github/issues-pr/MetaphyKing/living-repo-catalog) | ![Workflow](https://github.com/MetaphyKing/living-repo-catalog/actions/workflows/update-list.yml/badge.svg)
+|---|---|---|---|---|---|---|"""
 
 def github_api(url, headers, params=None):
     out = []
@@ -22,7 +22,7 @@ def github_api(url, headers, params=None):
         link = resp.headers.get('link', '')
         url = None
         for section in link.split(','):
-            if 'rel=\"next\"' in section:
+            if 'rel="next"' in section:
                 url = section[section.find('<')+1:section.find('>')]
     return out
 
@@ -89,35 +89,38 @@ def main():
     for cat, r in entries:
         n = r['name']
         u = r['html_url']
-        cat = cat_override.get(n, cat)
         d = safe_desc(r.get('description'))
         lines.append(f'| [{n}]({u}) | {u} | {cat} | {d} |')
 
     # Load readme template
     with open('README.md', 'r', encoding='utf-8') as f:
         text = f.read()
-    tbl_start = text.index('| Name')
-    tbl_end = text.find('---table-end---', tbl_start)
-    badge_placeholder = text.find('<!--BADGES-->')
 
-    last_updated = datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')
-    new_table = '\n'.join(lines)
-    new_readme = text[:tbl_start] + new_table + '\n---table-end---' + text[tbl_end+14:]
-    new_readme = new_readme.replace('<!--LAST_UPDATED-->', last_updated)
+    try:
+        tbl_start = text.index('| Name')
+        tbl_end = text.find('---table-end---', tbl_start)
+        badge_placeholder = text.find('<!--BADGES-->')
 
-    # Add badges
-    badge_line = BADGE_TABLE.replace('MetaphyKing', username)
-    if badge_placeholder != -1:
-        new_readme = new_readme.replace('<!--BADGES-->', badge_line)
+        last_updated = datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')
+        new_table = '\n'.join(lines)
+        new_readme = text[:tbl_start] + new_table + '\n---table-end---' + text[tbl_end+15:]
+        new_readme = new_readme.replace('<!--LAST_UPDATED-->', last_updated)
 
-    with open('README.md', 'w', encoding='utf-8') as f:
-        f.write(new_readme)
+        # Add badges
+        badge_line = BADGE_TABLE.replace('MetaphyKing', username)
+        if badge_placeholder != -1:
+            new_readme = new_readme.replace('<!--BADGES-->', badge_line)
 
-    # Write badges.xml (last updated)
-    with open('badges.xml', 'w') as f:
-        f.write(f'<badge>\n  <lastUpdated>{last_updated}</lastUpdated>\n</badge>\n')
+        with open('README.md', 'w', encoding='utf-8') as f:
+            f.write(new_readme)
 
-    print('Done. Catalog updated.')
+        # Write badges.xml (last updated)
+        with open('badges.xml', 'w') as f:
+            f.write(f'<badge>\n  <lastUpdated>{last_updated}</lastUpdated>\n</badge>\n')
+
+        print('Done. Catalog updated.')
+    except ValueError:
+        print('Table marker not found in README.md')
 
 if __name__ == '__main__':
     main()
