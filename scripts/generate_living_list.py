@@ -32,7 +32,7 @@ def safe_desc(d):
     return d.replace('\n',' ').replace('\r', '').strip()
 
 def main():
-    with open('config.json') as f:
+    with open('config.json', 'r', encoding='utf-8-sig') as f:
         config = json.load(f)
     username = config['github_username']
     exclude = set(config.get('repo_exclude_list', []))
@@ -93,7 +93,7 @@ def main():
         lines.append(f'| [{n}]({u}) | {u} | {cat} | {d} |')
 
     # Load readme template
-    with open('README.md', 'r', encoding='utf-8') as f:
+    with open('README.md', 'r', encoding='utf-8-sig') as f:
         text = f.read()
 
     try:
