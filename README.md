@@ -62,7 +62,7 @@ The **Living Repo Catalog** is designed to be extensible. To deploy your own ins
 
 <div align=\"center\">
 
-**[MetaphyKing](https://github.com/MetaphyKing)** | **[Metaphy LLC](https://metaphy.ai)** | **[The Triplets](https://github.com/MetaphyKing/MetaphyKing#team-brain-roles)**
+**[MetaphyKing](https://github.com/MetaphyKing)** | **[Metaphy LLC](https://metaphysicsandcomputing.com)** | **[The Triplets](https://github.com/MetaphyKing/MetaphyKing#team-brain-roles)**
 
 *Built to endure through eternity.*
 
