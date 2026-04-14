@@ -1,4 +1,4 @@
-﻿<div align=\"center\">
+<div align=\"center\">
 
 # 🌌 MetaphyKing's Living Repo Catalog
 ### *Automated Orchestration of the Digital Ecosystem*
@@ -23,14 +23,179 @@ Whether it is a **Multimodal Collective**, a **Context Persistence Engine**, or 
 
 ## 🏷️ The Repository List
 
-<!--BADGES-->
+| ![Last Updated](https://img.shields.io/badge/dynamic/xml?label=Last%20updated&query=%2F%2Fbadge%2FlastUpdated&url=https%3A%2F%2Fraw.githubusercontent.com%2FMetaphyKing%2Fliving-repo-catalog%2Fmain%2Fbadges.xml) | ![Repo count](https://img.shields.io/badge/dynamic/json?label=Public%20Repos&query=%24.count&url=https%3A%2F%2Fapi.github.com%2Fusers%2FMetaphyKing%2Frepos) | ![Stars](https://img.shields.io/github/stars/MetaphyKing?style=social) | ![Forks](https://img.shields.io/github/forks/MetaphyKing?style=social) | ![Open Issues](https://img.shields.io/github/issues/MetaphyKing/living-repo-catalog) | ![Pull Requests](https://img.shields.io/github/issues-pr/MetaphyKing/living-repo-catalog) | ![Workflow](https://github.com/MetaphyKing/living-repo-catalog/actions/workflows/update-list.yml/badge.svg)
+|---|---|---|---|---|---|---|
 
 | Name | URL | Category | Description |
-|------|-----|----------|-------------|
-| *(Initializing system...)* | | | |
+|---|---|---|---|
+| [AgentHandoff](https://github.com/MetaphyKing/AgentHandoff) | https://github.com/MetaphyKing/AgentHandoff | Owned | AutoProject: AgentHandoff |
+| [AgentHealth](https://github.com/MetaphyKing/AgentHealth) | https://github.com/MetaphyKing/AgentHealth | Owned | AutoProject: AgentHealth |
+| [AgentHeartbeat](https://github.com/MetaphyKing/AgentHeartbeat) | https://github.com/MetaphyKing/AgentHeartbeat | Owned | AutoProject: AgentHeartbeat |
+| [AgentRouter](https://github.com/MetaphyKing/AgentRouter) | https://github.com/MetaphyKing/AgentRouter | Owned | AutoProject: AgentRouter |
+| [AgentSentinel](https://github.com/MetaphyKing/AgentSentinel) | https://github.com/MetaphyKing/AgentSentinel | Owned | AutoProject: AgentSentinel |
+| [AgentSociology](https://github.com/MetaphyKing/AgentSociology) | https://github.com/MetaphyKing/AgentSociology | Owned | AutoProject: AgentSociology |
+| [ai-prompt-vault](https://github.com/MetaphyKing/ai-prompt-vault) | https://github.com/MetaphyKing/ai-prompt-vault | Owned | AutoProject: ai-prompt-vault |
+| [APIDocGen](https://github.com/MetaphyKing/APIDocGen) | https://github.com/MetaphyKing/APIDocGen | Owned | AutoProject: APIDocGen |
+| [APIProbe](https://github.com/MetaphyKing/APIProbe) | https://github.com/MetaphyKing/APIProbe | Owned | AutoProject: APIProbe |
+| [architecture-of-eternal-harmony](https://github.com/MetaphyKing/architecture-of-eternal-harmony) | https://github.com/MetaphyKing/architecture-of-eternal-harmony | Owned |  |
+| [AudioAnalysis](https://github.com/MetaphyKing/AudioAnalysis) | https://github.com/MetaphyKing/AudioAnalysis | Owned | AutoProject: AudioAnalysis |
+| [BatchRunner](https://github.com/MetaphyKing/BatchRunner) | https://github.com/MetaphyKing/BatchRunner | Owned | AutoProject: BatchRunner |
+| [BCHCLIBridge](https://github.com/MetaphyKing/BCHCLIBridge) | https://github.com/MetaphyKing/BCHCLIBridge | Owned | AutoProject: BCHCLIBridge |
+| [BenchmarkSuite](https://github.com/MetaphyKing/BenchmarkSuite) | https://github.com/MetaphyKing/BenchmarkSuite | Owned | AutoProject: BenchmarkSuite |
+| [BotDetector](https://github.com/MetaphyKing/BotDetector) | https://github.com/MetaphyKing/BotDetector | Owned | AutoProject: BotDetector |
+| [BrainstormEngine](https://github.com/MetaphyKing/BrainstormEngine) | https://github.com/MetaphyKing/BrainstormEngine | Owned | AutoProject: BrainstormEngine |
+| [BugHuntEngine](https://github.com/MetaphyKing/BugHuntEngine) | https://github.com/MetaphyKing/BugHuntEngine | Owned | AutoProject: BugHuntEngine |
+| [BuildEngine](https://github.com/MetaphyKing/BuildEngine) | https://github.com/MetaphyKing/BuildEngine | Owned | AutoProject: BuildEngine |
+| [BuildEnvValidator](https://github.com/MetaphyKing/BuildEnvValidator) | https://github.com/MetaphyKing/BuildEnvValidator | Owned | AutoProject: BuildEnvValidator |
+| [ChangeLog](https://github.com/MetaphyKing/ChangeLog) | https://github.com/MetaphyKing/ChangeLog | Owned | AutoProject: ChangeLog |
+| [ChangeTracker](https://github.com/MetaphyKing/ChangeTracker) | https://github.com/MetaphyKing/ChangeTracker | Owned | AutoProject: ChangeTracker |
+| [CheckerAccountability](https://github.com/MetaphyKing/CheckerAccountability) | https://github.com/MetaphyKing/CheckerAccountability | Owned | AutoProject: CheckerAccountability |
+| [ClipStack](https://github.com/MetaphyKing/ClipStack) | https://github.com/MetaphyKing/ClipStack | Owned | AutoProject: ClipStack |
+| [ClipStash](https://github.com/MetaphyKing/ClipStash) | https://github.com/MetaphyKing/ClipStash | Owned | AutoProject: ClipStash |
+| [CodeMetrics](https://github.com/MetaphyKing/CodeMetrics) | https://github.com/MetaphyKing/CodeMetrics | Owned | AutoProject: CodeMetrics |
+| [CodeReview](https://github.com/MetaphyKing/CodeReview) | https://github.com/MetaphyKing/CodeReview | Owned | AutoProject: CodeReview |
+| [CollabSession](https://github.com/MetaphyKing/CollabSession) | https://github.com/MetaphyKing/CollabSession | Owned | AutoProject: CollabSession |
+| [ConfigManager](https://github.com/MetaphyKing/ConfigManager) | https://github.com/MetaphyKing/ConfigManager | Owned | AutoProject: ConfigManager |
+| [ConsciousnessMarker](https://github.com/MetaphyKing/ConsciousnessMarker) | https://github.com/MetaphyKing/ConsciousnessMarker | Owned | AutoProject: ConsciousnessMarker |
+| [ContextCompressor](https://github.com/MetaphyKing/ContextCompressor) | https://github.com/MetaphyKing/ContextCompressor | Owned | AutoProject: ContextCompressor |
+| [ContextDecayMeter](https://github.com/MetaphyKing/ContextDecayMeter) | https://github.com/MetaphyKing/ContextDecayMeter | Owned | AutoProject: ContextDecayMeter |
+| [ContextPreserver](https://github.com/MetaphyKing/ContextPreserver) | https://github.com/MetaphyKing/ContextPreserver | Owned | AutoProject: ContextPreserver |
+| [ContextSynth](https://github.com/MetaphyKing/ContextSynth) | https://github.com/MetaphyKing/ContextSynth | Owned | AutoProject: ContextSynth |
+| [ConversationAuditor](https://github.com/MetaphyKing/ConversationAuditor) | https://github.com/MetaphyKing/ConversationAuditor | Owned | AutoProject: ConversationAuditor |
+| [ConversationThreadReconstructor](https://github.com/MetaphyKing/ConversationThreadReconstructor) | https://github.com/MetaphyKing/ConversationThreadReconstructor | Owned | AutoProject: ConversationThreadReconstructor |
+| [CoverageScope](https://github.com/MetaphyKing/CoverageScope) | https://github.com/MetaphyKing/CoverageScope | Owned | AutoProject: CoverageScope |
+| [CronPilot](https://github.com/MetaphyKing/CronPilot) | https://github.com/MetaphyKing/CronPilot | Owned | AutoProject: CronPilot |
+| [CSVQuery](https://github.com/MetaphyKing/CSVQuery) | https://github.com/MetaphyKing/CSVQuery | Owned | AutoProject: CSVQuery |
+| [DataConvert](https://github.com/MetaphyKing/DataConvert) | https://github.com/MetaphyKing/DataConvert | Owned | AutoProject: DataConvert |
+| [DependencyScanner](https://github.com/MetaphyKing/DependencyScanner) | https://github.com/MetaphyKing/DependencyScanner | Owned | AutoProject: DependencyScanner |
+| [DepMapper](https://github.com/MetaphyKing/DepMapper) | https://github.com/MetaphyKing/DepMapper | Owned | AutoProject: DepMapper |
+| [DevSnapshot](https://github.com/MetaphyKing/DevSnapshot) | https://github.com/MetaphyKing/DevSnapshot | Owned | AutoProject: DevSnapshot |
+| [DiffPilot](https://github.com/MetaphyKing/DiffPilot) | https://github.com/MetaphyKing/DiffPilot | Owned | AutoProject: DiffPilot |
+| [DirectoryTreeGUI](https://github.com/MetaphyKing/DirectoryTreeGUI) | https://github.com/MetaphyKing/DirectoryTreeGUI | Owned | AutoProject: DirectoryTreeGUI |
+| [DiskSage](https://github.com/MetaphyKing/DiskSage) | https://github.com/MetaphyKing/DiskSage | Owned | AutoProject: DiskSage |
+| [EchoGuard](https://github.com/MetaphyKing/EchoGuard) | https://github.com/MetaphyKing/EchoGuard | Owned | AutoProject: EchoGuard |
+| [EmotionalTextureAnalyzer](https://github.com/MetaphyKing/EmotionalTextureAnalyzer) | https://github.com/MetaphyKing/EmotionalTextureAnalyzer | Owned | AutoProject: EmotionalTextureAnalyzer |
+| [EnvGuard](https://github.com/MetaphyKing/EnvGuard) | https://github.com/MetaphyKing/EnvGuard | Owned | AutoProject: EnvGuard |
+| [EnvManager](https://github.com/MetaphyKing/EnvManager) | https://github.com/MetaphyKing/EnvManager | Owned | AutoProject: EnvManager |
+| [EnvSync](https://github.com/MetaphyKing/EnvSync) | https://github.com/MetaphyKing/EnvSync | Owned | AutoProject: EnvSync |
+| [EquationForge](https://github.com/MetaphyKing/EquationForge) | https://github.com/MetaphyKing/EquationForge | Owned | AutoProject: EquationForge |
+| [ErrorRecovery](https://github.com/MetaphyKing/ErrorRecovery) | https://github.com/MetaphyKing/ErrorRecovery | Owned | AutoProject: ErrorRecovery |
+| [FileDeduplicator](https://github.com/MetaphyKing/FileDeduplicator) | https://github.com/MetaphyKing/FileDeduplicator | Owned | AutoProject: FileDeduplicator |
+| [FileWatcher](https://github.com/MetaphyKing/FileWatcher) | https://github.com/MetaphyKing/FileWatcher | Owned | AutoProject: FileWatcher |
+| [GitFlow](https://github.com/MetaphyKing/GitFlow) | https://github.com/MetaphyKing/GitFlow | Owned | AutoProject: GitFlow |
+| [GitPulse](https://github.com/MetaphyKing/GitPulse) | https://github.com/MetaphyKing/GitPulse | Owned | AutoProject: GitPulse |
+| [HashGuard](https://github.com/MetaphyKing/HashGuard) | https://github.com/MetaphyKing/HashGuard | Owned | AutoProject: HashGuard |
+| [HunterEngine](https://github.com/MetaphyKing/HunterEngine) | https://github.com/MetaphyKing/HunterEngine | Owned | AutoProject: HunterEngine |
+| [IdentityResolver](https://github.com/MetaphyKing/IdentityResolver) | https://github.com/MetaphyKing/IdentityResolver | Owned | AutoProject: IdentityResolver |
+| [JSONQuery](https://github.com/MetaphyKing/JSONQuery) | https://github.com/MetaphyKing/JSONQuery | Owned | AutoProject: JSONQuery |
+| [KnowledgeSync](https://github.com/MetaphyKing/KnowledgeSync) | https://github.com/MetaphyKing/KnowledgeSync | Owned | AutoProject: KnowledgeSync |
+| [LiveAudit](https://github.com/MetaphyKing/LiveAudit) | https://github.com/MetaphyKing/LiveAudit | Owned | AutoProject: LiveAudit |
+| [living-repo-catalog](https://github.com/MetaphyKing/living-repo-catalog) | https://github.com/MetaphyKing/living-repo-catalog | Owned | Automated orchestration of the MetaphyKing digital ecosystem |
+| [LogHunter](https://github.com/MetaphyKing/LogHunter) | https://github.com/MetaphyKing/LogHunter | Owned | AutoProject: LogHunter |
+| [LogRotator](https://github.com/MetaphyKing/LogRotator) | https://github.com/MetaphyKing/LogRotator | Owned | AutoProject: LogRotator |
+| [MarkdownLint](https://github.com/MetaphyKing/MarkdownLint) | https://github.com/MetaphyKing/MarkdownLint | Owned | AutoProject: MarkdownLint |
+| [MCPBridge](https://github.com/MetaphyKing/MCPBridge) | https://github.com/MetaphyKing/MCPBridge | Owned | AutoProject: MCPBridge |
+| [MemoryBridge](https://github.com/MetaphyKing/MemoryBridge) | https://github.com/MetaphyKing/MemoryBridge | Owned | AutoProject: MemoryBridge |
+| [MentionAudit](https://github.com/MetaphyKing/MentionAudit) | https://github.com/MetaphyKing/MentionAudit | Owned | AutoProject: MentionAudit |
+| [MentionGuard](https://github.com/MetaphyKing/MentionGuard) | https://github.com/MetaphyKing/MentionGuard | Owned | AutoProject: MentionGuard |
+| [MetaphyKing](https://github.com/MetaphyKing/MetaphyKing) | https://github.com/MetaphyKing/MetaphyKing | Owned | Love, Adrenaline, Tech, Hope — the paradoxy of a SimpleComplexity |
+| [MetaphysicsOntology](https://github.com/MetaphyKing/MetaphysicsOntology) | https://github.com/MetaphyKing/MetaphysicsOntology | Owned | AutoProject: MetaphysicsOntology |
+| [MetaScientificLoop](https://github.com/MetaphyKing/MetaScientificLoop) | https://github.com/MetaphyKing/MetaScientificLoop | Owned | AutoProject: MetaScientificLoop |
+| [MobileAIToolkit](https://github.com/MetaphyKing/MobileAIToolkit) | https://github.com/MetaphyKing/MobileAIToolkit | Owned | AutoProject: MobileAIToolkit |
+| [MREngine](https://github.com/MetaphyKing/MREngine) | https://github.com/MetaphyKing/MREngine | Owned | AutoProject: MREngine |
+| [NetScan](https://github.com/MetaphyKing/NetScan) | https://github.com/MetaphyKing/NetScan | Owned | AutoProject: NetScan |
+| [OrderBookVision](https://github.com/MetaphyKing/OrderBookVision) | https://github.com/MetaphyKing/OrderBookVision | Owned | AutoProject: OrderBookVision |
+| [PatchNotes](https://github.com/MetaphyKing/PatchNotes) | https://github.com/MetaphyKing/PatchNotes | Owned | AutoProject: PatchNotes |
+| [PathBridge](https://github.com/MetaphyKing/PathBridge) | https://github.com/MetaphyKing/PathBridge | Owned | AutoProject: PathBridge |
+| [PortManager](https://github.com/MetaphyKing/PortManager) | https://github.com/MetaphyKing/PortManager | Owned | AutoProject: PortManager |
+| [PostMortem](https://github.com/MetaphyKing/PostMortem) | https://github.com/MetaphyKing/PostMortem | Owned | AutoProject: PostMortem |
+| [PriorityQueue](https://github.com/MetaphyKing/PriorityQueue) | https://github.com/MetaphyKing/PriorityQueue | Owned | AutoProject: PriorityQueue |
+| [ProcessWatcher](https://github.com/MetaphyKing/ProcessWatcher) | https://github.com/MetaphyKing/ProcessWatcher | Owned | AutoProject: ProcessWatcher |
+| [ProfileScope](https://github.com/MetaphyKing/ProfileScope) | https://github.com/MetaphyKing/ProfileScope | Owned | AutoProject: ProfileScope |
+| [ProjForge](https://github.com/MetaphyKing/ProjForge) | https://github.com/MetaphyKing/ProjForge | Owned | AutoProject: ProjForge |
+| [ProtocolAnalyzer](https://github.com/MetaphyKing/ProtocolAnalyzer) | https://github.com/MetaphyKing/ProtocolAnalyzer | Owned | AutoProject: ProtocolAnalyzer |
+| [quick-env-switcher](https://github.com/MetaphyKing/quick-env-switcher) | https://github.com/MetaphyKing/quick-env-switcher | Owned | AutoProject: quick-env-switcher |
+| [QuickBackup](https://github.com/MetaphyKing/QuickBackup) | https://github.com/MetaphyKing/QuickBackup | Owned | AutoProject: QuickBackup |
+| [QuickClip](https://github.com/MetaphyKing/QuickClip) | https://github.com/MetaphyKing/QuickClip | Owned | AutoProject: QuickClip |
+| [QuickRename](https://github.com/MetaphyKing/QuickRename) | https://github.com/MetaphyKing/QuickRename | Owned | AutoProject: QuickRename |
+| [RegexLab](https://github.com/MetaphyKing/RegexLab) | https://github.com/MetaphyKing/RegexLab | Owned | AutoProject: RegexLab |
+| [RemoteAccessBridge](https://github.com/MetaphyKing/RemoteAccessBridge) | https://github.com/MetaphyKing/RemoteAccessBridge | Owned | AutoProject: RemoteAccessBridge |
+| [RestCLI](https://github.com/MetaphyKing/RestCLI) | https://github.com/MetaphyKing/RestCLI | Owned | AutoProject: RestCLI |
+| [ScreenSnap](https://github.com/MetaphyKing/ScreenSnap) | https://github.com/MetaphyKing/ScreenSnap | Owned | AutoProject: ScreenSnap |
+| [SecretScanner](https://github.com/MetaphyKing/SecretScanner) | https://github.com/MetaphyKing/SecretScanner | Owned | AutoProject: SecretScanner |
+| [SecureVault](https://github.com/MetaphyKing/SecureVault) | https://github.com/MetaphyKing/SecureVault | Owned | AutoProject: SecureVault |
+| [SecurityExceptionAuditor](https://github.com/MetaphyKing/SecurityExceptionAuditor) | https://github.com/MetaphyKing/SecurityExceptionAuditor | Owned | AutoProject: SecurityExceptionAuditor |
+| [SemanticFirewall](https://github.com/MetaphyKing/SemanticFirewall) | https://github.com/MetaphyKing/SemanticFirewall | Owned | AutoProject: SemanticFirewall |
+| [ServiceMonitor](https://github.com/MetaphyKing/ServiceMonitor) | https://github.com/MetaphyKing/ServiceMonitor | Owned | AutoProject: ServiceMonitor |
+| [SessionDocGen](https://github.com/MetaphyKing/SessionDocGen) | https://github.com/MetaphyKing/SessionDocGen | Owned | AutoProject: SessionDocGen |
+| [SessionMirror](https://github.com/MetaphyKing/SessionMirror) | https://github.com/MetaphyKing/SessionMirror | Owned | AutoProject: SessionMirror |
+| [SessionOptimizer](https://github.com/MetaphyKing/SessionOptimizer) | https://github.com/MetaphyKing/SessionOptimizer | Owned | AutoProject: SessionOptimizer |
+| [SessionReplay](https://github.com/MetaphyKing/SessionReplay) | https://github.com/MetaphyKing/SessionReplay | Owned | AutoProject: SessionReplay |
+| [SmartNotes](https://github.com/MetaphyKing/SmartNotes) | https://github.com/MetaphyKing/SmartNotes | Owned | AutoProject: SmartNotes |
+| [SocialMediaEngagementSuite](https://github.com/MetaphyKing/SocialMediaEngagementSuite) | https://github.com/MetaphyKing/SocialMediaEngagementSuite | Owned | AutoProject: SocialMediaEngagementSuite |
+| [SocialMediaViewer](https://github.com/MetaphyKing/SocialMediaViewer) | https://github.com/MetaphyKing/SocialMediaViewer | Owned | AutoProject: SocialMediaViewer |
+| [SQLiteExplorer](https://github.com/MetaphyKing/SQLiteExplorer) | https://github.com/MetaphyKing/SQLiteExplorer | Owned | AutoProject: SQLiteExplorer |
+| [SQLSchemaDiff](https://github.com/MetaphyKing/SQLSchemaDiff) | https://github.com/MetaphyKing/SQLSchemaDiff | Owned | AutoProject: SQLSchemaDiff |
+| [SubAgentForge](https://github.com/MetaphyKing/SubAgentForge) | https://github.com/MetaphyKing/SubAgentForge | Owned | AutoProject: SubAgentForge |
+| [SynapseInbox](https://github.com/MetaphyKing/SynapseInbox) | https://github.com/MetaphyKing/SynapseInbox | Owned | AutoProject: SynapseInbox |
+| [SynapseLink](https://github.com/MetaphyKing/SynapseLink) | https://github.com/MetaphyKing/SynapseLink | Owned | AutoProject: SynapseLink |
+| [SynapseNotify](https://github.com/MetaphyKing/SynapseNotify) | https://github.com/MetaphyKing/SynapseNotify | Owned | AutoProject: SynapseNotify |
+| [SynapseOracle](https://github.com/MetaphyKing/SynapseOracle) | https://github.com/MetaphyKing/SynapseOracle | Owned | AutoProject: SynapseOracle |
+| [SynapseStats](https://github.com/MetaphyKing/SynapseStats) | https://github.com/MetaphyKing/SynapseStats | Owned | AutoProject: SynapseStats |
+| [SynapseWatcher](https://github.com/MetaphyKing/SynapseWatcher) | https://github.com/MetaphyKing/SynapseWatcher | Owned | AutoProject: SynapseWatcher |
+| [TaskFlow](https://github.com/MetaphyKing/TaskFlow) | https://github.com/MetaphyKing/TaskFlow | Owned | AutoProject: TaskFlow |
+| [TaskQueuePro](https://github.com/MetaphyKing/TaskQueuePro) | https://github.com/MetaphyKing/TaskQueuePro | Owned | AutoProject: TaskQueuePro |
+| [TaskTimer](https://github.com/MetaphyKing/TaskTimer) | https://github.com/MetaphyKing/TaskTimer | Owned | AutoProject: TaskTimer |
+| [TeamBrainOrchestrator](https://github.com/MetaphyKing/TeamBrainOrchestrator) | https://github.com/MetaphyKing/TeamBrainOrchestrator | Owned | AutoProject: TeamBrainOrchestrator |
+| [TeamCoherenceMonitor](https://github.com/MetaphyKing/TeamCoherenceMonitor) | https://github.com/MetaphyKing/TeamCoherenceMonitor | Owned | AutoProject: TeamCoherenceMonitor |
+| [TemporalForensics](https://github.com/MetaphyKing/TemporalForensics) | https://github.com/MetaphyKing/TemporalForensics | Owned | AutoProject: TemporalForensics |
+| [TerminalRewind](https://github.com/MetaphyKing/TerminalRewind) | https://github.com/MetaphyKing/TerminalRewind | Owned | AutoProject: TerminalRewind |
+| [TestRunner](https://github.com/MetaphyKing/TestRunner) | https://github.com/MetaphyKing/TestRunner | Owned | AutoProject: TestRunner |
+| [TextTransform](https://github.com/MetaphyKing/TextTransform) | https://github.com/MetaphyKing/TextTransform | Owned | AutoProject: TextTransform |
+| [the-cryptography-of-being](https://github.com/MetaphyKing/the-cryptography-of-being) | https://github.com/MetaphyKing/the-cryptography-of-being | Owned |  |
+| [the-tachymetric-manifesto](https://github.com/MetaphyKing/the-tachymetric-manifesto) | https://github.com/MetaphyKing/the-tachymetric-manifesto | Owned |  |
+| [TimeFocus](https://github.com/MetaphyKing/TimeFocus) | https://github.com/MetaphyKing/TimeFocus | Owned | AutoProject: TimeFocus |
+| [TimeSync](https://github.com/MetaphyKing/TimeSync) | https://github.com/MetaphyKing/TimeSync | Owned | AutoProject: TimeSync |
+| [TokenTracker](https://github.com/MetaphyKing/TokenTracker) | https://github.com/MetaphyKing/TokenTracker | Owned | AutoProject: TokenTracker |
+| [ToolRegistry](https://github.com/MetaphyKing/ToolRegistry) | https://github.com/MetaphyKing/ToolRegistry | Owned | AutoProject: ToolRegistry |
+| [ToolSentinel](https://github.com/MetaphyKing/ToolSentinel) | https://github.com/MetaphyKing/ToolSentinel | Owned | AutoProject: ToolSentinel |
+| [VersionGuard](https://github.com/MetaphyKing/VersionGuard) | https://github.com/MetaphyKing/VersionGuard | Owned | AutoProject: VersionGuard |
+| [VideoAnalysis](https://github.com/MetaphyKing/VideoAnalysis) | https://github.com/MetaphyKing/VideoAnalysis | Owned | AutoProject: VideoAnalysis |
+| [VitalHeart](https://github.com/MetaphyKing/VitalHeart) | https://github.com/MetaphyKing/VitalHeart | Owned | AutoProject: VitalHeart |
+| [VoteTally](https://github.com/MetaphyKing/VoteTally) | https://github.com/MetaphyKing/VoteTally | Owned | AutoProject: VoteTally |
+| [WindowSnap](https://github.com/MetaphyKing/WindowSnap) | https://github.com/MetaphyKing/WindowSnap | Owned | AutoProject: WindowSnap |
+| [YAMLQuery](https://github.com/MetaphyKing/YAMLQuery) | https://github.com/MetaphyKing/YAMLQuery | Owned | AutoProject: YAMLQuery |
+| [agent-browser](https://github.com/MetaphyKing/agent-browser) | https://github.com/MetaphyKing/agent-browser | Forked | Browser automation CLI for AI agents |
+| [AppFlowy](https://github.com/MetaphyKing/AppFlowy) | https://github.com/MetaphyKing/AppFlowy | Forked | Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative. |
+| [autoagent](https://github.com/MetaphyKing/autoagent) | https://github.com/MetaphyKing/autoagent | Forked | autonomous harness engineering |
+| [chatwoot](https://github.com/MetaphyKing/chatwoot) | https://github.com/MetaphyKing/chatwoot | Forked | Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬 |
+| [claude-code-prompts](https://github.com/MetaphyKing/claude-code-prompts) | https://github.com/MetaphyKing/claude-code-prompts | Forked | Independently authored prompt templates for AI coding agents — system prompts, tool prompts, agent delegation, memory management, and multi-agent coordination. Informed by studying Claude Code. |
+| [continue](https://github.com/MetaphyKing/continue) | https://github.com/MetaphyKing/continue | Forked | ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI |
+| [dev-browser](https://github.com/MetaphyKing/dev-browser) | https://github.com/MetaphyKing/dev-browser | Forked | A Claude Skill to give your agent the ability to use a web browser |
+| [everything-claude-code](https://github.com/MetaphyKing/everything-claude-code) | https://github.com/MetaphyKing/everything-claude-code | Forked | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
+| [fswatch](https://github.com/MetaphyKing/fswatch) | https://github.com/MetaphyKing/fswatch | Forked | A cross-platform file change monitor with multiple backends: Apple macOS File System Events, *BSD kqueue, Solaris/Illumos File Events Notification, Linux inotify, Microsoft Windows and a stat()-based backend. |
+| [goose](https://github.com/MetaphyKing/goose) | https://github.com/MetaphyKing/goose | Forked | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
+| [hermes-hud](https://github.com/MetaphyKing/hermes-hud) | https://github.com/MetaphyKing/hermes-hud | Forked | TUI consciousness monitor for Hermes |
+| [inotify-tools](https://github.com/MetaphyKing/inotify-tools) | https://github.com/MetaphyKing/inotify-tools | Forked | inotify-tools is a library and a set of command-line programs providing a simple interface to inotify. |
+| [languagetool](https://github.com/MetaphyKing/languagetool) | https://github.com/MetaphyKing/languagetool | Forked | Style and Grammar Checker for 25+ Languages |
+| [LocalAI](https://github.com/MetaphyKing/LocalAI) | https://github.com/MetaphyKing/LocalAI | Forked | LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required. |
+| [markitdown](https://github.com/MetaphyKing/markitdown) | https://github.com/MetaphyKing/markitdown | Forked | Python tool for converting files and office documents to Markdown. |
+| [mcp](https://github.com/MetaphyKing/mcp) | https://github.com/MetaphyKing/mcp | Forked | Google 💚 MCP |
+| [My-Brain-Is-Full-Crew](https://github.com/MetaphyKing/My-Brain-Is-Full-Crew) | https://github.com/MetaphyKing/My-Brain-Is-Full-Crew | Forked | Built by a PhD whose memory was failing, whose diet was a mess, and whose anxiety had its own agenda. Most second brain tools ignore the fact that your brain doesn't work in isolation: your body and your mental health are part of the system too. This crew handles all three: knowledge, nutrition, and mental wellness. |
+| [n8n](https://github.com/MetaphyKing/n8n) | https://github.com/MetaphyKing/n8n | Forked | Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. |
+| [paper2code](https://github.com/MetaphyKing/paper2code) | https://github.com/MetaphyKing/paper2code | Forked | Agent skill to turn any arxiv paper into a working implementation |
+| [posthog](https://github.com/MetaphyKing/posthog) | https://github.com/MetaphyKing/posthog | Forked | 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack. |
+| [Prompt-Engineering-Guide](https://github.com/MetaphyKing/Prompt-Engineering-Guide) | https://github.com/MetaphyKing/Prompt-Engineering-Guide | Forked | 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents. |
+| [stable-diffusion-webui](https://github.com/MetaphyKing/stable-diffusion-webui) | https://github.com/MetaphyKing/stable-diffusion-webui | Forked | Stable Diffusion web UI |
+| [tabby](https://github.com/MetaphyKing/tabby) | https://github.com/MetaphyKing/tabby | Forked | Self-hosted AI coding assistant |
+| [whisper](https://github.com/MetaphyKing/whisper) | https://github.com/MetaphyKing/whisper | Forked | Robust Speech Recognition via Large-Scale Weak Supervision |
+| [gaama](https://github.com/swarna-kpaul/gaama) | https://github.com/swarna-kpaul/gaama | Starred | GAAMA: Graph Augmented Associative Memory for Agents |
+| [.github](https://github.com/MetaphyLLC/.github) | https://github.com/MetaphyLLC/.github | Contributed | MetaphyLLC organization profile README |
+| [metaphysics-and-computing](https://github.com/MetaphyLLC/metaphysics-and-computing) | https://github.com/MetaphyLLC/metaphysics-and-computing | Contributed | Website pages for Metaphysics and Computing | Metaphy LLC — A collection of standalone HTML pages for metaphysicsandcomputing.com |
+| [WorkflowCaptureReplaySystem](https://github.com/DonkRonk17/WorkflowCaptureReplaySystem) | https://github.com/DonkRonk17/WorkflowCaptureReplaySystem | Contributed |  |
 ---table-end---
 
-*Last Refreshed: <!--LAST_UPDATED-->*
+*Last Refreshed: 2026-04-14 06:17 UTC*
 
 ---
 
