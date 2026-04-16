@@ -132,8 +132,6 @@ Whether it is a **Multimodal Collective**, a **Context Persistence Engine**, or 
 | [SessionOptimizer](https://github.com/MetaphyKing/SessionOptimizer) | https://github.com/MetaphyKing/SessionOptimizer | Owned | AutoProject: SessionOptimizer |
 | [SessionReplay](https://github.com/MetaphyKing/SessionReplay) | https://github.com/MetaphyKing/SessionReplay | Owned | AutoProject: SessionReplay |
 | [SmartNotes](https://github.com/MetaphyKing/SmartNotes) | https://github.com/MetaphyKing/SmartNotes | Owned | AutoProject: SmartNotes |
-| [SocialMediaEngagementSuite](https://github.com/MetaphyKing/SocialMediaEngagementSuite) | https://github.com/MetaphyKing/SocialMediaEngagementSuite | Owned | AutoProject: SocialMediaEngagementSuite |
-| [SocialMediaViewer](https://github.com/MetaphyKing/SocialMediaViewer) | https://github.com/MetaphyKing/SocialMediaViewer | Owned | AutoProject: SocialMediaViewer |
 | [SQLiteExplorer](https://github.com/MetaphyKing/SQLiteExplorer) | https://github.com/MetaphyKing/SQLiteExplorer | Owned | AutoProject: SQLiteExplorer |
 | [SQLSchemaDiff](https://github.com/MetaphyKing/SQLSchemaDiff) | https://github.com/MetaphyKing/SQLSchemaDiff | Owned | AutoProject: SQLSchemaDiff |
 | [SubAgentForge](https://github.com/MetaphyKing/SubAgentForge) | https://github.com/MetaphyKing/SubAgentForge | Owned | AutoProject: SubAgentForge |
@@ -224,14 +222,16 @@ Whether it is a **Multimodal Collective**, a **Context Persistence Engine**, or 
 | [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) | https://github.com/tiimgreen/github-cheat-sheet | Starred | A list of cool features of Git and GitHub. |
 | [last30days-skill](https://github.com/mvanhorn/last30days-skill) | https://github.com/mvanhorn/last30days-skill | Starred | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
 | [LocalAGI](https://github.com/mudler/LocalAGI) | https://github.com/mudler/LocalAGI | Starred | LocalAGI is a powerful, self-hostable AI Agent platform designed for maximum privacy and flexibility. A complete drop-in replacement for OpenAI's Responses APIs with advanced agentic capabilities. No clouds.  Local AI that works on consumer-grade hardware (CPU and GPU). |
+| [magika](https://github.com/google/magika) | https://github.com/google/magika | Starred | Fast and accurate AI powered file content types detection |
 | [MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | https://github.com/FujiwaraChoki/MoneyPrinterV2 | Starred | Automate the process of making money online. |
 | [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) | https://github.com/serhii-londar/open-source-mac-os-apps | Starred | 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps |
+| [sec-gemini](https://github.com/google/sec-gemini) | https://github.com/google/sec-gemini | Starred | Sec-Gemini v1 is a cutting-edge AI model designed to enhance cybersecurity capabilities and empower defenders in the ongoing battle against cyber threats. |
+| [servers](https://github.com/modelcontextprotocol/servers) | https://github.com/modelcontextprotocol/servers | Starred | Model Context Protocol Servers |
 | [skills](https://github.com/mattpocock/skills) | https://github.com/mattpocock/skills | Starred | My personal directory of skills, straight from my .claude directory. |
 | [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | https://github.com/trimstray/the-book-of-secret-knowledge | Starred | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. |
 | [timesfm](https://github.com/google-research/timesfm) | https://github.com/google-research/timesfm | Starred | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. |
 | [.github](https://github.com/MetaphyLLC/.github) | https://github.com/MetaphyLLC/.github | Contributed | MetaphyLLC organization profile README |
 | [metaphysics-and-computing](https://github.com/MetaphyLLC/metaphysics-and-computing) | https://github.com/MetaphyLLC/metaphysics-and-computing | Contributed | Website pages for Metaphysics and Computing | Metaphy LLC — A collection of standalone HTML pages for metaphysicsandcomputing.com |
-| [WorkflowCaptureReplaySystem](https://github.com/DonkRonk17/WorkflowCaptureReplaySystem) | https://github.com/DonkRonk17/WorkflowCaptureReplaySystem | Contributed |  |
 ---table-end---
 
 *Last Refreshed: 2026-04-14 06:17 UTC*
