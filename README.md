@@ -203,12 +203,13 @@ Whether it is a **Multimodal Collective**, a **Context Persistence Engine**, or 
 | [voicebox](https://github.com/MetaphyKing/voicebox) | https://github.com/MetaphyKing/voicebox | Forked | The open-source voice synthesis studio |
 | [whisper](https://github.com/MetaphyKing/whisper) | https://github.com/MetaphyKing/whisper | Forked | Robust Speech Recognition via Large-Scale Weak Supervision |
 | [ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | https://github.com/virattt/ai-hedge-fund | Starred | An AI Hedge Fund Team |
-| [andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | https://github.com/forrestchang/andrej-karpathy-skills | Starred | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. |
+| [andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | https://github.com/multica-ai/andrej-karpathy-skills | Starred | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. |
 | [awesome](https://github.com/sindresorhus/awesome) | https://github.com/sindresorhus/awesome | Starred | 😎 Awesome lists about all kinds of interesting topics |
 | [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) | https://github.com/wasabeef/awesome-android-ui | Starred | A curated list of awesome Android UI/UX libraries |
 | [awesome-cpp](https://github.com/fffaraz/awesome-cpp) | https://github.com/fffaraz/awesome-cpp | Starred | A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. |
 | [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | https://github.com/Hack-with-Github/Awesome-Hacking | Starred | A collection of various awesome lists for hackers, pentesters and security researchers |
 | [awesome-ios](https://github.com/vsouza/awesome-ios) | https://github.com/vsouza/awesome-ios | Starred | A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects |
+| [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | https://github.com/Shubhamsaboo/awesome-llm-apps | Starred | 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. |
 | [awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) | https://github.com/VoltAgent/awesome-openclaw-skills | Starred | The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞 |
 | [awesome-python](https://github.com/vinta/awesome-python) | https://github.com/vinta/awesome-python | Starred | An opinionated list of Python frameworks, libraries, tools, and resources |
 | [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) | https://github.com/lukasz-madon/awesome-remote-job | Starred | A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python |
@@ -225,6 +226,9 @@ Whether it is a **Multimodal Collective**, a **Context Persistence Engine**, or 
 | [magika](https://github.com/google/magika) | https://github.com/google/magika | Starred | Fast and accurate AI powered file content types detection |
 | [MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | https://github.com/FujiwaraChoki/MoneyPrinterV2 | Starred | Automate the process of making money online. |
 | [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) | https://github.com/serhii-londar/open-source-mac-os-apps | Starred | 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps |
+| [pdf-inspector](https://github.com/firecrawl/pdf-inspector) | https://github.com/firecrawl/pdf-inspector | Starred | Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions. |
+| [RAG-Anything](https://github.com/HKUDS/RAG-Anything) | https://github.com/HKUDS/RAG-Anything | Starred | "RAG-Anything: All-in-One RAG Framework" |
+| [Scrapling](https://github.com/D4Vinci/Scrapling) | https://github.com/D4Vinci/Scrapling | Starred | 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! |
 | [sec-gemini](https://github.com/google/sec-gemini) | https://github.com/google/sec-gemini | Starred | Sec-Gemini v1 is a cutting-edge AI model designed to enhance cybersecurity capabilities and empower defenders in the ongoing battle against cyber threats. |
 | [servers](https://github.com/modelcontextprotocol/servers) | https://github.com/modelcontextprotocol/servers | Starred | Model Context Protocol Servers |
 | [skills](https://github.com/mattpocock/skills) | https://github.com/mattpocock/skills | Starred | My personal directory of skills, straight from my .claude directory. |
