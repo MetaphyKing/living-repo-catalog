@@ -203,7 +203,7 @@ Whether it is a **Multimodal Collective**, a **Context Persistence Engine**, or 
 | [voicebox](https://github.com/MetaphyKing/voicebox) | https://github.com/MetaphyKing/voicebox | Forked | The open-source voice synthesis studio |
 | [whisper](https://github.com/MetaphyKing/whisper) | https://github.com/MetaphyKing/whisper | Forked | Robust Speech Recognition via Large-Scale Weak Supervision |
 | [ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | https://github.com/virattt/ai-hedge-fund | Starred | An AI Hedge Fund Team |
-| [andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | https://github.com/multica-ai/andrej-karpathy-skills | Starred | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. |
+| [andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | https://github.com/forrestchang/andrej-karpathy-skills | Starred | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. |
 | [awesome](https://github.com/sindresorhus/awesome) | https://github.com/sindresorhus/awesome | Starred | 😎 Awesome lists about all kinds of interesting topics |
 | [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) | https://github.com/wasabeef/awesome-android-ui | Starred | A curated list of awesome Android UI/UX libraries |
 | [awesome-cpp](https://github.com/fffaraz/awesome-cpp) | https://github.com/fffaraz/awesome-cpp | Starred | A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. |
