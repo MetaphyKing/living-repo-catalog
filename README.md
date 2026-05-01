@@ -202,6 +202,7 @@ Whether it is a **Multimodal Collective**, a **Context Persistence Engine**, or 
 | [tabby](https://github.com/MetaphyKing/tabby) | https://github.com/MetaphyKing/tabby | Forked | Self-hosted AI coding assistant |
 | [voicebox](https://github.com/MetaphyKing/voicebox) | https://github.com/MetaphyKing/voicebox | Forked | The open-source voice synthesis studio |
 | [whisper](https://github.com/MetaphyKing/whisper) | https://github.com/MetaphyKing/whisper | Forked | Robust Speech Recognition via Large-Scale Weak Supervision |
+| [agency-agents](https://github.com/msitarzewski/agency-agents) | https://github.com/msitarzewski/agency-agents | Starred | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. |
 | [ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | https://github.com/virattt/ai-hedge-fund | Starred | An AI Hedge Fund Team |
 | [andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | https://github.com/forrestchang/andrej-karpathy-skills | Starred | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. |
 | [awesome](https://github.com/sindresorhus/awesome) | https://github.com/sindresorhus/awesome | Starred | 😎 Awesome lists about all kinds of interesting topics |
@@ -228,18 +229,22 @@ Whether it is a **Multimodal Collective**, a **Context Persistence Engine**, or 
 | [magika](https://github.com/google/magika) | https://github.com/google/magika | Starred | Fast and accurate AI powered file content types detection |
 | [ml-intern](https://github.com/huggingface/ml-intern) | https://github.com/huggingface/ml-intern | Starred | 🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models |
 | [MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | https://github.com/FujiwaraChoki/MoneyPrinterV2 | Starred | Automate the process of making money online. |
+| [omniget](https://github.com/tonhowtf/omniget) | https://github.com/tonhowtf/omniget | Starred | Open source desktop app for studying online courses and books on your computer. Watch Hotmart, Udemy, Kiwify courses with timestamped notes, spaced repetition flashcards and a focus timer. Read PDFs and EPUBs with highlights, bookmarks and a focus mode. Also downloads YouTube, Instagram, TikTok and torrents. |
 | [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) | https://github.com/serhii-londar/open-source-mac-os-apps | Starred | 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps |
+| [openagi](https://github.com/aiplanethub/openagi) | https://github.com/aiplanethub/openagi | Starred | Paving the way for open agents and AGI for all. |
 | [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | https://github.com/PaddlePaddle/PaddleOCR | Starred | Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages. |
 | [pdf-inspector](https://github.com/firecrawl/pdf-inspector) | https://github.com/firecrawl/pdf-inspector | Starred | Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions. |
+| [playwright-mcp](https://github.com/microsoft/playwright-mcp) | https://github.com/microsoft/playwright-mcp | Starred | Playwright MCP server |
 | [RAG-Anything](https://github.com/HKUDS/RAG-Anything) | https://github.com/HKUDS/RAG-Anything | Starred | "RAG-Anything: All-in-One RAG Framework" |
+| [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) | https://github.com/CorentinJ/Real-Time-Voice-Cloning | Starred | Clone a voice in 5 seconds to generate arbitrary speech in real-time |
 | [rlm](https://github.com/alexzhang13/rlm) | https://github.com/alexzhang13/rlm | Starred | General plug-and-play inference library for Recursive Language Models (RLMs), supporting various sandboxes. |
 | [Scrapling](https://github.com/D4Vinci/Scrapling) | https://github.com/D4Vinci/Scrapling | Starred | 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! |
 | [sec-gemini](https://github.com/google/sec-gemini) | https://github.com/google/sec-gemini | Starred | Sec-Gemini v1 is a cutting-edge AI model designed to enhance cybersecurity capabilities and empower defenders in the ongoing battle against cyber threats. |
 | [servers](https://github.com/modelcontextprotocol/servers) | https://github.com/modelcontextprotocol/servers | Starred | Model Context Protocol Servers |
+| [skills](https://github.com/google/skills) | https://github.com/google/skills | Starred | Agent Skills for Google products and technologies |
 | [skills](https://github.com/mattpocock/skills) | https://github.com/mattpocock/skills | Starred | Skills for Real Engineers. Straight from my .claude directory. |
 | [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | https://github.com/trimstray/the-book-of-secret-knowledge | Starred | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. |
 | [timesfm](https://github.com/google-research/timesfm) | https://github.com/google-research/timesfm | Starred | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. |
-| [.github](https://github.com/MetaphyLLC/.github) | https://github.com/MetaphyLLC/.github | Contributed | MetaphyLLC organization profile README |
 | [metaphysics-and-computing](https://github.com/MetaphyLLC/metaphysics-and-computing) | https://github.com/MetaphyLLC/metaphysics-and-computing | Contributed | Website pages for Metaphysics and Computing | Metaphy LLC — A collection of standalone HTML pages for metaphysicsandcomputing.com |
 ---table-end---
 
