@@ -241,12 +241,14 @@ Whether it is a **Multimodal Collective**, a **Context Persistence Engine**, or 
 | [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | https://github.com/PaddlePaddle/PaddleOCR | Starred | Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages. |
 | [pdf-inspector](https://github.com/firecrawl/pdf-inspector) | https://github.com/firecrawl/pdf-inspector | Starred | Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions. |
 | [playwright-mcp](https://github.com/microsoft/playwright-mcp) | https://github.com/microsoft/playwright-mcp | Starred | Playwright MCP server |
+| [py-webrtcvad](https://github.com/wiseman/py-webrtcvad) | https://github.com/wiseman/py-webrtcvad | Starred | Python interface to the WebRTC Voice Activity Detector |
 | [RAG-Anything](https://github.com/HKUDS/RAG-Anything) | https://github.com/HKUDS/RAG-Anything | Starred | "RAG-Anything: All-in-One RAG Framework" |
 | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) | https://github.com/CorentinJ/Real-Time-Voice-Cloning | Starred | Clone a voice in 5 seconds to generate arbitrary speech in real-time |
 | [rlm](https://github.com/alexzhang13/rlm) | https://github.com/alexzhang13/rlm | Starred | General plug-and-play inference library for Recursive Language Models (RLMs), supporting various sandboxes. |
 | [Scrapling](https://github.com/D4Vinci/Scrapling) | https://github.com/D4Vinci/Scrapling | Starred | 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! |
 | [sec-gemini](https://github.com/google/sec-gemini) | https://github.com/google/sec-gemini | Starred | Sec-Gemini v1 is a cutting-edge AI model designed to enhance cybersecurity capabilities and empower defenders in the ongoing battle against cyber threats. |
 | [servers](https://github.com/modelcontextprotocol/servers) | https://github.com/modelcontextprotocol/servers | Starred | Model Context Protocol Servers |
+| [silero-vad](https://github.com/snakers4/silero-vad) | https://github.com/snakers4/silero-vad | Starred | Silero VAD: pre-trained enterprise-grade Voice Activity Detector |
 | [skills](https://github.com/google/skills) | https://github.com/google/skills | Starred | Agent Skills for Google products and technologies |
 | [skills](https://github.com/mattpocock/skills) | https://github.com/mattpocock/skills | Starred | Skills for Real Engineers. Straight from my .claude directory. |
 | [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | https://github.com/trimstray/the-book-of-secret-knowledge | Starred | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. |
