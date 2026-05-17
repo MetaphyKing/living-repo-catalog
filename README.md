@@ -255,6 +255,7 @@ Whether it is a **Multimodal Collective**, a **Context Persistence Engine**, or 
 | [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | https://github.com/Stirling-Tools/Stirling-PDF | Starred | #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere |
 | [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | https://github.com/trimstray/the-book-of-secret-knowledge | Starred | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. |
 | [timesfm](https://github.com/google-research/timesfm) | https://github.com/google-research/timesfm | Starred | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. |
+| [x-algorithm](https://github.com/xai-org/x-algorithm) | https://github.com/xai-org/x-algorithm | Starred | Algorithm powering the For You feed on X |
 | [metaphysics-and-computing](https://github.com/MetaphyLLC/metaphysics-and-computing) | https://github.com/MetaphyLLC/metaphysics-and-computing | Contributed | Website pages for Metaphysics and Computing | Metaphy LLC — A collection of standalone HTML pages for metaphysicsandcomputing.com |
 ---table-end---
 
