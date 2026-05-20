@@ -204,6 +204,7 @@ Whether it is a **Multimodal Collective**, a **Context Persistence Engine**, or 
 | [tabby](https://github.com/MetaphyKing/tabby) | https://github.com/MetaphyKing/tabby | Forked | Self-hosted AI coding assistant |
 | [voicebox](https://github.com/MetaphyKing/voicebox) | https://github.com/MetaphyKing/voicebox | Forked | The open-source voice synthesis studio |
 | [whisper](https://github.com/MetaphyKing/whisper) | https://github.com/MetaphyKing/whisper | Forked | Robust Speech Recognition via Large-Scale Weak Supervision |
+| [ade-python](https://github.com/landing-ai/ade-python) | https://github.com/landing-ai/ade-python | Starred | Python library for Agentic Document Extraction (ADE). |
 | [agency-agents](https://github.com/msitarzewski/agency-agents) | https://github.com/msitarzewski/agency-agents | Starred | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. |
 | [Agentic_MetaHumans](https://github.com/parthubhe/Agentic_MetaHumans) | https://github.com/parthubhe/Agentic_MetaHumans | Starred | Python framework for 3D agentic AI avatars (MetaHuman/UE). Features real-time lip-sync (Audio2Face), custom text-based emotion driving expressions, and multiple LangChain agent examples (Cafe, PA, Nurse). Along with sample HTML,CSS,JS website. |
 | [ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | https://github.com/virattt/ai-hedge-fund | Starred | An AI Hedge Fund Team |
@@ -223,6 +224,7 @@ Whether it is a **Multimodal Collective**, a **Context Persistence Engine**, or 
 | [blender-mcp](https://github.com/ahujasid/blender-mcp) | https://github.com/ahujasid/blender-mcp | Starred |  |
 | [claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | https://github.com/anthropics/claude-cookbooks | Starred | A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. |
 | [claude-hud](https://github.com/jarrodwatts/claude-hud) | https://github.com/jarrodwatts/claude-hud | Starred | A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress |
+| [codegraph](https://github.com/colbymchenry/codegraph) | https://github.com/colbymchenry/codegraph | Starred | Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local |
 | [DeepAnalyze](https://github.com/ruc-datalab/DeepAnalyze) | https://github.com/ruc-datalab/DeepAnalyze | Starred | DeepAnalyze is the first agentic LLM for autonomous data science. 🎈你的AI数据分析师，自动分析大量数据，一键生成专业分析报告！ |
 | [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) | https://github.com/dypsilon/frontend-dev-bookmarks | Starred | Manually curated collection of resources for frontend web developers. |
 | [gaama](https://github.com/swarna-kpaul/gaama) | https://github.com/swarna-kpaul/gaama | Starred | GAAMA: Graph Augmented Associative Memory for Agents |
@@ -248,7 +250,8 @@ Whether it is a **Multimodal Collective**, a **Context Persistence Engine**, or 
 | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) | https://github.com/CorentinJ/Real-Time-Voice-Cloning | Starred | Clone a voice in 5 seconds to generate arbitrary speech in real-time |
 | [rlm](https://github.com/alexzhang13/rlm) | https://github.com/alexzhang13/rlm | Starred | General plug-and-play inference library for Recursive Language Models (RLMs), supporting various sandboxes. |
 | [Scrapling](https://github.com/D4Vinci/Scrapling) | https://github.com/D4Vinci/Scrapling | Starred | 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! |
-| [sec-gemini](https://github.com/google/sec-gemini) | https://github.com/google/sec-gemini | Starred | Sec-Gemini v1 is a cutting-edge AI model designed to enhance cybersecurity capabilities and empower defenders in the ongoing battle against cyber threats. |
+| [sec-gemini](https://github.com/google/sec-gemini) | https://github.com/google/sec-gemini | Starred | Sec-Gemini  is a cutting-edge AI model designed to enhance cybersecurity capabilities and empower defenders in the ongoing battle against cyber threats. |
+| [server](https://github.com/nextcloud/server) | https://github.com/nextcloud/server | Starred | ☁️ Nextcloud server, a safe home for all your data |
 | [servers](https://github.com/modelcontextprotocol/servers) | https://github.com/modelcontextprotocol/servers | Starred | Model Context Protocol Servers |
 | [silero-vad](https://github.com/snakers4/silero-vad) | https://github.com/snakers4/silero-vad | Starred | Silero VAD: pre-trained enterprise-grade Voice Activity Detector |
 | [skills](https://github.com/google/skills) | https://github.com/google/skills | Starred | Agent Skills for Google products and technologies |
@@ -256,6 +259,8 @@ Whether it is a **Multimodal Collective**, a **Context Persistence Engine**, or 
 | [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | https://github.com/Stirling-Tools/Stirling-PDF | Starred | #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere |
 | [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | https://github.com/trimstray/the-book-of-secret-knowledge | Starred | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. |
 | [timesfm](https://github.com/google-research/timesfm) | https://github.com/google-research/timesfm | Starred | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. |
+| [tokenspeed](https://github.com/lightseekorg/tokenspeed) | https://github.com/lightseekorg/tokenspeed | Starred | TokenSpeed is a speed-of-light LLM inference engine. |
+| [TransformerLens](https://github.com/TransformerLensOrg/TransformerLens) | https://github.com/TransformerLensOrg/TransformerLens | Starred | A library for mechanistic interpretability of GPT-style language models |
 | [x-algorithm](https://github.com/xai-org/x-algorithm) | https://github.com/xai-org/x-algorithm | Starred | Algorithm powering the For You feed on X |
 | [metaphysics-and-computing](https://github.com/MetaphyLLC/metaphysics-and-computing) | https://github.com/MetaphyLLC/metaphysics-and-computing | Contributed | Website pages for Metaphysics and Computing | Metaphy LLC — A collection of standalone HTML pages for metaphysicsandcomputing.com |
 ---table-end---
