@@ -224,7 +224,7 @@ Whether it is a **Multimodal Collective**, a **Context Persistence Engine**, or 
 | [blender-mcp](https://github.com/ahujasid/blender-mcp) | https://github.com/ahujasid/blender-mcp | Starred |  |
 | [claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | https://github.com/anthropics/claude-cookbooks | Starred | A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. |
 | [claude-hud](https://github.com/jarrodwatts/claude-hud) | https://github.com/jarrodwatts/claude-hud | Starred | A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress |
-| [codegraph](https://github.com/colbymchenry/codegraph) | https://github.com/colbymchenry/codegraph | Starred | Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local |
+| [codegraph](https://github.com/colbymchenry/codegraph) | https://github.com/colbymchenry/codegraph | Starred | Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local |
 | [DeepAnalyze](https://github.com/ruc-datalab/DeepAnalyze) | https://github.com/ruc-datalab/DeepAnalyze | Starred | DeepAnalyze is the first agentic LLM for autonomous data science. 🎈你的AI数据分析师，自动分析大量数据，一键生成专业分析报告！ |
 | [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) | https://github.com/dypsilon/frontend-dev-bookmarks | Starred | Manually curated collection of resources for frontend web developers. |
 | [gaama](https://github.com/swarna-kpaul/gaama) | https://github.com/swarna-kpaul/gaama | Starred | GAAMA: Graph Augmented Associative Memory for Agents |
