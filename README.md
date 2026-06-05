@@ -168,6 +168,7 @@ Whether it is a **Multimodal Collective**, a **Context Persistence Engine**, or 
 | [Archon](https://github.com/MetaphyKing/Archon) | https://github.com/MetaphyKing/Archon | Forked | The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable. |
 | [autoagent](https://github.com/MetaphyKing/autoagent) | https://github.com/MetaphyKing/autoagent | Forked | autonomous harness engineering |
 | [blender-mcp](https://github.com/MetaphyKing/blender-mcp) | https://github.com/MetaphyKing/blender-mcp | Forked |  |
+| [chatterbox](https://github.com/MetaphyKing/chatterbox) | https://github.com/MetaphyKing/chatterbox | Forked | SoTA open-source TTS |
 | [chatwoot](https://github.com/MetaphyKing/chatwoot) | https://github.com/MetaphyKing/chatwoot | Forked | Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬 |
 | [claude-code-best-practice](https://github.com/MetaphyKing/claude-code-best-practice) | https://github.com/MetaphyKing/claude-code-best-practice | Forked | from vibe coding to agentic engineering - practice makes claude perfect |
 | [claude-code-prompts](https://github.com/MetaphyKing/claude-code-prompts) | https://github.com/MetaphyKing/claude-code-prompts | Forked | Independently authored prompt templates for AI coding agents — system prompts, tool prompts, agent delegation, memory management, and multi-agent coordination. Informed by studying Claude Code. |
@@ -264,6 +265,7 @@ Whether it is a **Multimodal Collective**, a **Context Persistence Engine**, or 
 | [OpenJarvis](https://github.com/open-jarvis/OpenJarvis) | https://github.com/open-jarvis/OpenJarvis | Starred | Personal AI, On Personal Devices |
 | [orca](https://github.com/stablyai/orca) | https://github.com/stablyai/orca | Starred | Orca is the next-gen IDE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile. |
 | [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | https://github.com/PaddlePaddle/PaddleOCR | Starred | Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages. |
+| [Pallaidium](https://github.com/tin2tin/Pallaidium) | https://github.com/tin2tin/Pallaidium | Starred | PALLAIDIUM — a generative AI movie studio, seamlessly integrated into the Blender Video Editor (VSE), enabling end-to-end production from script to screen and back. |
 | [pdf-inspector](https://github.com/firecrawl/pdf-inspector) | https://github.com/firecrawl/pdf-inspector | Starred | Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions. |
 | [Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video) | https://github.com/AIDC-AI/Pixelle-Video | Starred | 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine |
 | [playwright-mcp](https://github.com/microsoft/playwright-mcp) | https://github.com/microsoft/playwright-mcp | Starred | Playwright MCP server |
