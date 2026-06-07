@@ -286,6 +286,7 @@ Whether it is a **Multimodal Collective**, a **Context Persistence Engine**, or 
 | [plur](https://github.com/plur-ai/plur) | https://github.com/plur-ai/plur | Starred | Shared memory for AI agents |
 | [py-webrtcvad](https://github.com/wiseman/py-webrtcvad) | https://github.com/wiseman/py-webrtcvad | Starred | Python interface to the WebRTC Voice Activity Detector |
 | [RAG-Anything](https://github.com/HKUDS/RAG-Anything) | https://github.com/HKUDS/RAG-Anything | Starred | "RAG-Anything: All-in-One RAG Framework" |
+| [RapidRAW](https://github.com/CyberTimon/RapidRAW) | https://github.com/CyberTimon/RapidRAW | Starred | A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind. |
 | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) | https://github.com/CorentinJ/Real-Time-Voice-Cloning | Starred | Clone a voice in 5 seconds to generate arbitrary speech in real-time |
 | [reefy](https://github.com/reefyai/reefy) | https://github.com/reefyai/reefy | Starred | Turn your PC into a Reef - run OpenClaw, Ollama, and more on your own PC. Private. Local. Open source. Simple. |
 | [rlm](https://github.com/alexzhang13/rlm) | https://github.com/alexzhang13/rlm | Starred | General plug-and-play inference library for Recursive Language Models (RLMs), supporting various sandboxes. |
