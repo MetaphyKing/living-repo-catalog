@@ -231,6 +231,7 @@ Whether it is a **Multimodal Collective**, a **Context Persistence Engine**, or 
 | [awesome-python](https://github.com/vinta/awesome-python) | https://github.com/vinta/awesome-python | Starred | An opinionated list of Python frameworks, libraries, tools, and resources |
 | [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) | https://github.com/lukasz-madon/awesome-remote-job | Starred | A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python |
 | [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | https://github.com/awesome-selfhosted/awesome-selfhosted | Starred | A list of Free Software network services and web applications which can be hosted on your own servers |
+| [bermuda](https://github.com/agittins/bermuda) | https://github.com/agittins/bermuda | Starred | Bermuda Bluetooth/BLE Triangulation / Trilateration for HomeAssistant |
 | [blender-mcp](https://github.com/ahujasid/blender-mcp) | https://github.com/ahujasid/blender-mcp | Starred |  |
 | [cc-thinking-skills](https://github.com/tjboudreaux/cc-thinking-skills) | https://github.com/tjboudreaux/cc-thinking-skills | Starred | 18 mental models and critical thinking frameworks for Claude Code - First Principles, Bayesian, Systems Thinking, OODA, Pre-Mortem, and more |
 | [claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | https://github.com/anthropics/claude-cookbooks | Starred | A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. |
@@ -242,6 +243,7 @@ Whether it is a **Multimodal Collective**, a **Context Persistence Engine**, or 
 | [DeepAnalyze](https://github.com/ruc-datalab/DeepAnalyze) | https://github.com/ruc-datalab/DeepAnalyze | Starred | DeepAnalyze is the first agentic LLM for autonomous data science. 🎈你的AI数据分析师，自动分析大量数据，一键生成专业分析报告！ |
 | [docmd](https://github.com/docmd-io/docmd) | https://github.com/docmd-io/docmd | Starred | Build production-ready documentation from Markdown in seconds. No React, no bloat, just content. |
 | [evolver](https://github.com/EvoMap/evolver) | https://github.com/EvoMap/evolver | Starred | The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai |
+| [Facial-Emotion-detection-webcam-](https://github.com/Abhishekjl/Facial-Emotion-detection-webcam-) | https://github.com/Abhishekjl/Facial-Emotion-detection-webcam- | Starred |  |
 | [firecrawl](https://github.com/firecrawl/firecrawl) | https://github.com/firecrawl/firecrawl | Starred | The API to search, scrape, and interact with the web at scale. 🔥 |
 | [free-claude-code](https://github.com/Alishahryar1/free-claude-code) | https://github.com/Alishahryar1/free-claude-code | Starred | Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported) |
 | [free-llm-api-keys](https://github.com/alistaitsacle/free-llm-api-keys) | https://github.com/alistaitsacle/free-llm-api-keys | Starred | Free LLM API keys for GPT-5.5, Claude, DeepSeek, Gemini, Grok — copy, paste, use. Updated 3-5x daily. No credit card needed. |
