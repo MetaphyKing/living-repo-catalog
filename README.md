@@ -313,7 +313,6 @@ Whether it is a **Multimodal Collective**, a **Context Persistence Engine**, or 
 | [ViMax](https://github.com/HKUDS/ViMax) | https://github.com/HKUDS/ViMax | Starred | "ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)" |
 | [Wan2.2](https://github.com/Wan-Video/Wan2.2) | https://github.com/Wan-Video/Wan2.2 | Starred | Wan: Open and Advanced Large-Scale Video Generative Models |
 | [x-algorithm](https://github.com/xai-org/x-algorithm) | https://github.com/xai-org/x-algorithm | Starred | Algorithm powering the For You feed on X |
-| [metaphysics-and-computing](https://github.com/MetaphyLLC/metaphysics-and-computing) | https://github.com/MetaphyLLC/metaphysics-and-computing | Contributed | Website pages for Metaphysics and Computing | Metaphy LLC — A collection of standalone HTML pages for metaphysicsandcomputing.com |
 ---table-end---
 
 *Last Refreshed: 2026-04-14 06:17 UTC*
