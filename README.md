@@ -260,7 +260,7 @@ Whether it is a **Multimodal Collective**, a **Context Persistence Engine**, or 
 | [get-shit-done](https://github.com/gsd-build/get-shit-done) | https://github.com/gsd-build/get-shit-done | Starred | A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES. |
 | [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) | https://github.com/tiimgreen/github-cheat-sheet | Starred | A list of cool features of Git and GitHub. |
 | [GitNexus](https://github.com/abhigyanpatwari/GitNexus) | https://github.com/abhigyanpatwari/GitNexus | Starred | GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration |
-| [headroom](https://github.com/chopratejas/headroom) | https://github.com/chopratejas/headroom | Starred | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server. |
+| [headroom](https://github.com/headroomlabs-ai/headroom) | https://github.com/headroomlabs-ai/headroom | Starred | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server. |
 | [hermes-agent](https://github.com/NousResearch/hermes-agent) | https://github.com/NousResearch/hermes-agent | Starred | The agent that grows with you |
 | [hermes-agent-idea-workflow](https://github.com/AkoliteZA/hermes-agent-idea-workflow) | https://github.com/AkoliteZA/hermes-agent-idea-workflow | Starred | Pre-build idea-to-spec workflow skills for Hermes Agent: turn rough ideas into design docs, implementation specs, and Superpowers-ready build handoffs. |
 | [hermes-desktop](https://github.com/fathah/hermes-desktop) | https://github.com/fathah/hermes-desktop | Starred | Desktop Companion for Hermes Agent |
@@ -312,6 +312,7 @@ Whether it is a **Multimodal Collective**, a **Context Persistence Engine**, or 
 | [server](https://github.com/nextcloud/server) | https://github.com/nextcloud/server | Starred | ☁️ Nextcloud server, a safe home for all your data |
 | [servers](https://github.com/modelcontextprotocol/servers) | https://github.com/modelcontextprotocol/servers | Starred | Model Context Protocol Servers |
 | [silero-vad](https://github.com/snakers4/silero-vad) | https://github.com/snakers4/silero-vad | Starred | Silero VAD: pre-trained enterprise-grade Voice Activity Detector |
+| [skills](https://github.com/NVIDIA/skills) | https://github.com/NVIDIA/skills | Starred | AI agent skills published by NVIDIA |
 | [skills](https://github.com/dotnet/skills) | https://github.com/dotnet/skills | Starred | Repository for skills to assist AI coding agents with .NET and C# |
 | [skills](https://github.com/google/skills) | https://github.com/google/skills | Starred | Agent Skills for Google products and technologies |
 | [skills](https://github.com/mattpocock/skills) | https://github.com/mattpocock/skills | Starred | Skills for Real Engineers. Straight from my .claude directory. |
