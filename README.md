@@ -131,6 +131,7 @@ Whether it is a **Multimodal Collective**, a **Context Persistence Engine**, or 
 | [SessionMirror](https://github.com/MetaphyKing/SessionMirror) | https://github.com/MetaphyKing/SessionMirror | Owned | AutoProject: SessionMirror |
 | [SessionOptimizer](https://github.com/MetaphyKing/SessionOptimizer) | https://github.com/MetaphyKing/SessionOptimizer | Owned | AutoProject: SessionOptimizer |
 | [SessionReplay](https://github.com/MetaphyKing/SessionReplay) | https://github.com/MetaphyKing/SessionReplay | Owned | AutoProject: SessionReplay |
+| [ShoulderAngels](https://github.com/MetaphyKing/ShoulderAngels) | https://github.com/MetaphyKing/ShoulderAngels | Owned | Two voices debate your coding path forward — safe vs. bold dev strategies with LLM outcome forecasting. |
 | [SmartNotes](https://github.com/MetaphyKing/SmartNotes) | https://github.com/MetaphyKing/SmartNotes | Owned | AutoProject: SmartNotes |
 | [SQLiteExplorer](https://github.com/MetaphyKing/SQLiteExplorer) | https://github.com/MetaphyKing/SQLiteExplorer | Owned | AutoProject: SQLiteExplorer |
 | [SQLSchemaDiff](https://github.com/MetaphyKing/SQLSchemaDiff) | https://github.com/MetaphyKing/SQLSchemaDiff | Owned | AutoProject: SQLSchemaDiff |
