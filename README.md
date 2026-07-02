@@ -298,7 +298,7 @@ Whether it is a **Multimodal Collective**, a **Context Persistence Engine**, or 
 | [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | https://github.com/PaddlePaddle/PaddleOCR | Starred | Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages. |
 | [Pallaidium](https://github.com/tin2tin/Pallaidium) | https://github.com/tin2tin/Pallaidium | Starred | PALLAIDIUM — a generative AI movie studio, seamlessly integrated into the Blender Video Editor (VSE), enabling end-to-end production from script to screen and back. |
 | [pdf-inspector](https://github.com/firecrawl/pdf-inspector) | https://github.com/firecrawl/pdf-inspector | Starred | Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions. |
-| [Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video) | https://github.com/AIDC-AI/Pixelle-Video | Starred | 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine |
+| [Pixelle-Video](https://github.com/ATH-MaaS/Pixelle-Video) | https://github.com/ATH-MaaS/Pixelle-Video | Starred | 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine |
 | [playwright-mcp](https://github.com/microsoft/playwright-mcp) | https://github.com/microsoft/playwright-mcp | Starred | Playwright MCP server |
 | [plugins](https://github.com/cursor/plugins) | https://github.com/cursor/plugins | Starred | Cursor plugin specification and official plugins |
 | [plur](https://github.com/plur-ai/plur) | https://github.com/plur-ai/plur | Starred | Shared memory for AI agents |
