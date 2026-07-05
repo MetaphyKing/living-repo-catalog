@@ -293,7 +293,7 @@ Whether it is a **Multimodal Collective**, a **Context Persistence Engine**, or 
 | [openagi](https://github.com/aiplanethub/openagi) | https://github.com/aiplanethub/openagi | Starred | Paving the way for open agents and AGI for all. |
 | [openclaw](https://github.com/openclaw/openclaw) | https://github.com/openclaw/openclaw | Starred | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 |
 | [OpenHands](https://github.com/OpenHands/OpenHands) | https://github.com/OpenHands/OpenHands | Starred | 🙌 OpenHands: AI-Driven Development |
-| [openhuman](https://github.com/tinyhumansai/openhuman) | https://github.com/tinyhumansai/openhuman | Starred | Your Personal AI super intelligence. Private, Simple and extremely powerful. |
+| [openhuman](https://github.com/tinyhumansai/openhuman) | https://github.com/tinyhumansai/openhuman | Starred | Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher. |
 | [OpenJarvis](https://github.com/open-jarvis/OpenJarvis) | https://github.com/open-jarvis/OpenJarvis | Starred | Personal AI, On Personal Devices |
 | [OpenMontage](https://github.com/calesthio/OpenMontage) | https://github.com/calesthio/OpenMontage | Starred | World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio. |
 | [orca](https://github.com/stablyai/orca) | https://github.com/stablyai/orca | Starred | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile. |
