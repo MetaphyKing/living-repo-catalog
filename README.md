@@ -260,7 +260,7 @@ Whether it is a **Multimodal Collective**, a **Context Persistence Engine**, or 
 | [Facial-Emotion-detection-webcam-](https://github.com/Abhishekjl/Facial-Emotion-detection-webcam-) | https://github.com/Abhishekjl/Facial-Emotion-detection-webcam- | Starred |  |
 | [firecrawl](https://github.com/firecrawl/firecrawl) | https://github.com/firecrawl/firecrawl | Starred | The API to search, scrape, and interact with the web at scale. 🔥 |
 | [flint-chart](https://github.com/microsoft/flint-chart) | https://github.com/microsoft/flint-chart | Starred | 🪄 Flint is a visualization language that lets AI agents reliably create expressive, good-looking charts from simple, human-editable chart specs. |
-| [free-claude-code](https://github.com/Alishahryar1/free-claude-code) | https://github.com/Alishahryar1/free-claude-code | Starred | Use claude code and codex for free in the terminal, VSCode extension, and discord like OpenClaw (voice supported) |
+| [free-claude-code](https://github.com/Alishahryar1/free-claude-code) | https://github.com/Alishahryar1/free-claude-code | Starred | Use claude code, codex or pi for free in the terminal, VSCode extension, and discord like OpenClaw (voice supported) |
 | [frigate](https://github.com/blakeblackshear/frigate) | https://github.com/blakeblackshear/frigate | Starred | NVR with realtime local object detection for IP cameras |
 | [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) | https://github.com/dypsilon/frontend-dev-bookmarks | Starred | Manually curated collection of resources for frontend web developers. |
 | [gaama](https://github.com/swarna-kpaul/gaama) | https://github.com/swarna-kpaul/gaama | Starred | GAAMA: Graph Augmented Associative Memory for Agents |
