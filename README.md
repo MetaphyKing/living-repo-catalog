@@ -335,7 +335,7 @@ Whether it is a **Multimodal Collective**, a **Context Persistence Engine**, or 
 | [skills](https://github.com/NVIDIA/skills) | https://github.com/NVIDIA/skills | Starred | AI agent skills published by NVIDIA |
 | [skills](https://github.com/dotnet/skills) | https://github.com/dotnet/skills | Starred | Repository for skills to assist AI coding agents with .NET and C# |
 | [skills](https://github.com/google/skills) | https://github.com/google/skills | Starred | Agent Skills for Google products and technologies |
-| [skills](https://github.com/mattpocock/skills) | https://github.com/mattpocock/skills | Starred | Skills for Real Engineers. Straight from my .claude directory. |
+| [skills](https://github.com/mattpocock/skills) | https://github.com/mattpocock/skills | Starred | Skills for Real Engineers. Straight from my .agents directory. |
 | [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | https://github.com/Stirling-Tools/Stirling-PDF | Starred | #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere |
 | [superpowers](https://github.com/obra/superpowers) | https://github.com/obra/superpowers | Starred | An agentic skills framework & software development methodology that works. |
 | [supertonic](https://github.com/supertone-inc/supertonic) | https://github.com/supertone-inc/supertonic | Starred | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. |
