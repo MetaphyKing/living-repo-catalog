@@ -352,6 +352,7 @@ Whether it is a **Multimodal Collective**, a **Context Persistence Engine**, or 
 | [unsloth-zoo](https://github.com/unslothai/unsloth-zoo) | https://github.com/unslothai/unsloth-zoo | Starred | Utils for Unsloth https://github.com/unslothai/unsloth |
 | [ViMax](https://github.com/HKUDS/ViMax) | https://github.com/HKUDS/ViMax | Starred | "ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)" |
 | [voice-chat](https://github.com/activated-intelligence/voice-chat) | https://github.com/activated-intelligence/voice-chat | Starred | 100% in-browser, hands-free AI voice chat using Whisper, WebLLM, and Supertonic TTS |
+| [voicebox](https://github.com/jamiepine/voicebox) | https://github.com/jamiepine/voicebox | Starred | The open-source AI voice studio. Clone, dictate, create. |
 | [VoxCPM](https://github.com/OpenBMB/VoxCPM) | https://github.com/OpenBMB/VoxCPM | Starred | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning |
 | [Wan2.2](https://github.com/Wan-Video/Wan2.2) | https://github.com/Wan-Video/Wan2.2 | Starred | Wan: Open and Advanced Large-Scale Video Generative Models |
 | [x-algorithm](https://github.com/xai-org/x-algorithm) | https://github.com/xai-org/x-algorithm | Starred | Algorithm powering the For You feed on X |
