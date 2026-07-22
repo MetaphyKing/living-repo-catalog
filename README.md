@@ -309,7 +309,7 @@ Whether it is a **Multimodal Collective**, a **Context Persistence Engine**, or 
 | [OpenJarvis](https://github.com/open-jarvis/OpenJarvis) | https://github.com/open-jarvis/OpenJarvis | Starred | Personal AI, On Personal Devices |
 | [OpenManus](https://github.com/FoundationAgents/OpenManus) | https://github.com/FoundationAgents/OpenManus | Starred | No fortress, purely open ground.  OpenManus is Coming. |
 | [OpenMontage](https://github.com/calesthio/OpenMontage) | https://github.com/calesthio/OpenMontage | Starred | World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio. |
-| [orca](https://github.com/stablyai/orca) | https://github.com/stablyai/orca | Starred | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile. |
+| [orca](https://github.com/stablyai/orca) | https://github.com/stablyai/orca | Starred | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS. |
 | [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | https://github.com/PaddlePaddle/PaddleOCR | Starred | Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages. |
 | [page-agent](https://github.com/alibaba/page-agent) | https://github.com/alibaba/page-agent | Starred | JavaScript in-page GUI agent. Control web interfaces with natural language. |
 | [Pallaidium](https://github.com/tin2tin/Pallaidium) | https://github.com/tin2tin/Pallaidium | Starred | PALLAIDIUM — a generative AI movie studio, seamlessly integrated into the Blender Video Editor (VSE), enabling end-to-end production from script to screen and back. |
@@ -333,7 +333,7 @@ Whether it is a **Multimodal Collective**, a **Context Persistence Engine**, or 
 | [server](https://github.com/nextcloud/server) | https://github.com/nextcloud/server | Starred | ☁️ Nextcloud server, a safe home for all your data |
 | [servers](https://github.com/modelcontextprotocol/servers) | https://github.com/modelcontextprotocol/servers | Starred | Model Context Protocol Servers |
 | [silero-vad](https://github.com/snakers4/silero-vad) | https://github.com/snakers4/silero-vad | Starred | Silero VAD: pre-trained enterprise-grade Voice Activity Detector |
-| [skills](https://github.com/NVIDIA/skills) | https://github.com/NVIDIA/skills | Starred | AI agent skills published by NVIDIA |
+| [skills](https://github.com/NVIDIA/skills) | https://github.com/NVIDIA/skills | Starred | Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end. |
 | [skills](https://github.com/dotnet/skills) | https://github.com/dotnet/skills | Starred | Repository for skills to assist AI coding agents with .NET and C# |
 | [skills](https://github.com/google/skills) | https://github.com/google/skills | Starred | Agent Skills for Google products and technologies |
 | [skills](https://github.com/mattpocock/skills) | https://github.com/mattpocock/skills | Starred | Skills for Real Engineers. Straight from my .agents directory. |
