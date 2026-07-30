@@ -47,6 +47,7 @@ Whether it is a **Multimodal Collective**, a **Context Persistence Engine**, or 
 | [BugHuntEngine](https://github.com/MetaphyKing/BugHuntEngine) | https://github.com/MetaphyKing/BugHuntEngine | Owned | AutoProject: BugHuntEngine |
 | [BuildEngine](https://github.com/MetaphyKing/BuildEngine) | https://github.com/MetaphyKing/BuildEngine | Owned | AutoProject: BuildEngine |
 | [BuildEnvValidator](https://github.com/MetaphyKing/BuildEnvValidator) | https://github.com/MetaphyKing/BuildEnvValidator | Owned | AutoProject: BuildEnvValidator |
+| [cael-legal](https://github.com/MetaphyKing/cael-legal) | https://github.com/MetaphyKing/cael-legal | Owned | Public legal documents for the Cael Suite product line (privacy policies, data-safety disclosures). No source code. |
 | [ChangeLog](https://github.com/MetaphyKing/ChangeLog) | https://github.com/MetaphyKing/ChangeLog | Owned | AutoProject: ChangeLog |
 | [ChangeTracker](https://github.com/MetaphyKing/ChangeTracker) | https://github.com/MetaphyKing/ChangeTracker | Owned | AutoProject: ChangeTracker |
 | [CheckerAccountability](https://github.com/MetaphyKing/CheckerAccountability) | https://github.com/MetaphyKing/CheckerAccountability | Owned | AutoProject: CheckerAccountability |
@@ -240,6 +241,7 @@ Whether it is a **Multimodal Collective**, a **Context Persistence Engine**, or 
 | [bermuda](https://github.com/agittins/bermuda) | https://github.com/agittins/bermuda | Starred | Bermuda Bluetooth/BLE Triangulation / Trilateration for HomeAssistant |
 | [blender-mcp](https://github.com/ahujasid/blender-mcp) | https://github.com/ahujasid/blender-mcp | Starred | Open-source MCP to use Blender with any LLM |
 | [browser-use](https://github.com/browser-use/browser-use) | https://github.com/browser-use/browser-use | Starred | 🌐 Make websites accessible for AI agents. Automate tasks online with ease. |
+| [buzz](https://github.com/block/buzz) | https://github.com/block/buzz | Starred | A hive mind communication platform |
 | [cc-thinking-skills](https://github.com/tjboudreaux/cc-thinking-skills) | https://github.com/tjboudreaux/cc-thinking-skills | Starred | 18 mental models and critical thinking frameworks for Claude Code - First Principles, Bayesian, Systems Thinking, OODA, Pre-Mortem, and more |
 | [claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | https://github.com/anthropics/claude-cookbooks | Starred | A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. |
 | [claude-hud](https://github.com/jarrodwatts/claude-hud) | https://github.com/jarrodwatts/claude-hud | Starred | A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress |
@@ -250,12 +252,14 @@ Whether it is a **Multimodal Collective**, a **Context Persistence Engine**, or 
 | [CLI-Anything](https://github.com/HKUDS/CLI-Anything) | https://github.com/HKUDS/CLI-Anything | Starred | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ |
 | [CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | https://github.com/CloakHQ/CloakBrowser | Starred | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed. |
 | [codegraph](https://github.com/colbymchenry/codegraph) | https://github.com/colbymchenry/codegraph | Starred | Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local |
-| [colibri](https://github.com/JustVugg/colibri) | https://github.com/JustVugg/colibri | Starred | Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦 |
+| [colibri](https://github.com/JustVugg/colibri) | https://github.com/JustVugg/colibri | Starred | Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦 |
 | [Complete-Data-Structures-and-Algorithms](https://github.com/Coder-World04/Complete-Data-Structures-and-Algorithms) | https://github.com/Coder-World04/Complete-Data-Structures-and-Algorithms | Starred | This repository contains everything you need to become proficient in Data Structures and Algorithms |
 | [crewAI](https://github.com/crewAIInc/crewAI) | https://github.com/crewAIInc/crewAI | Starred | Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks. |
 | [Crucix](https://github.com/calesthio/Crucix) | https://github.com/calesthio/Crucix | Starred | Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes. |
 | [DeepAnalyze](https://github.com/ruc-datalab/DeepAnalyze) | https://github.com/ruc-datalab/DeepAnalyze | Starred | DeepAnalyze is the first agentic LLM for autonomous data science. 🎈你的AI数据分析师，自动分析大量数据，一键生成专业分析报告！ |
+| [DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) | https://github.com/wonderwhy-er/DesktopCommanderMCP | Starred | This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities |
 | [docmd](https://github.com/docmd-io/docmd) | https://github.com/docmd-io/docmd | Starred | Build production-ready documentation from Markdown in seconds. No React, no bloat, just content. |
+| [ego-lite](https://github.com/citrolabs/ego-lite) | https://github.com/citrolabs/ego-lite | Starred | The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config. |
 | [evolver](https://github.com/EvoMap/evolver) | https://github.com/EvoMap/evolver | Starred | The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai |
 | [Fabric](https://github.com/danielmiessler/Fabric) | https://github.com/danielmiessler/Fabric | Starred | Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere. |
 | [Facial-Emotion-detection-webcam-](https://github.com/Abhishekjl/Facial-Emotion-detection-webcam-) | https://github.com/Abhishekjl/Facial-Emotion-detection-webcam- | Starred |  |
@@ -339,6 +343,7 @@ Whether it is a **Multimodal Collective**, a **Context Persistence Engine**, or 
 | [skills](https://github.com/google/skills) | https://github.com/google/skills | Starred | Agent Skills for Google products and technologies |
 | [skills](https://github.com/mattpocock/skills) | https://github.com/mattpocock/skills | Starred | Skills for Real Engineers. Straight from my .agents directory. |
 | [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | https://github.com/Stirling-Tools/Stirling-PDF | Starred | #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere |
+| [strix](https://github.com/usestrix/strix) | https://github.com/usestrix/strix | Starred | Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. |
 | [superpowers](https://github.com/obra/superpowers) | https://github.com/obra/superpowers | Starred | An agentic skills framework & software development methodology that works. |
 | [supertonic](https://github.com/supertone-inc/supertonic) | https://github.com/supertone-inc/supertonic | Starred | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. |
 | [Supertonic-Voice-Mixer](https://github.com/Topping1/Supertonic-Voice-Mixer) | https://github.com/Topping1/Supertonic-Voice-Mixer | Starred | Voice mixer and modifier for SuperTonic TTS |
@@ -349,8 +354,9 @@ Whether it is a **Multimodal Collective**, a **Context Persistence Engine**, or 
 | [TradingAgents](https://github.com/TauricResearch/TradingAgents) | https://github.com/TauricResearch/TradingAgents | Starred | TradingAgents: Multi-Agents LLM Financial Trading Framework |
 | [TransformerLens](https://github.com/TransformerLensOrg/TransformerLens) | https://github.com/TransformerLensOrg/TransformerLens | Starred | A library for mechanistic interpretability of GPT-style language models |
 | [Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) | https://github.com/Egonex-AI/Understand-Anything | Starred | Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. |
-| [unsloth](https://github.com/unslothai/unsloth) | https://github.com/unslothai/unsloth | Starred | Unsloth is a local UI for training and running Gemma 4, Qwen3.6, DeepSeek, Kimi, GLM and other models. |
+| [unsloth](https://github.com/unslothai/unsloth) | https://github.com/unslothai/unsloth | Starred | Unsloth is a local UI for training and running Kimi K3, Gemma 4, Qwen3.6, DeepSeek, GLM and other models. |
 | [unsloth-zoo](https://github.com/unslothai/unsloth-zoo) | https://github.com/unslothai/unsloth-zoo | Starred | Utils for Unsloth https://github.com/unslothai/unsloth |
+| [VibeVoice](https://github.com/microsoft/VibeVoice) | https://github.com/microsoft/VibeVoice | Starred | Open-Source Frontier Voice AI |
 | [ViMax](https://github.com/HKUDS/ViMax) | https://github.com/HKUDS/ViMax | Starred | "ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)" |
 | [voice-chat](https://github.com/activated-intelligence/voice-chat) | https://github.com/activated-intelligence/voice-chat | Starred | 100% in-browser, hands-free AI voice chat using Whisper, WebLLM, and Supertonic TTS |
 | [voicebox](https://github.com/jamiepine/voicebox) | https://github.com/jamiepine/voicebox | Starred | The open-source AI voice studio. Clone, dictate, create. |
