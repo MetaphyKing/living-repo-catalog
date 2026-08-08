@@ -327,6 +327,7 @@ Whether it is a **Multimodal Collective**, a **Context Persistence Engine**, or 
 | [Pixelle-Video](https://github.com/ATH-MaaS/Pixelle-Video) | https://github.com/ATH-MaaS/Pixelle-Video | Starred | 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine |
 | [playwright-mcp](https://github.com/microsoft/playwright-mcp) | https://github.com/microsoft/playwright-mcp | Starred | Playwright MCP server |
 | [plugins](https://github.com/cursor/plugins) | https://github.com/cursor/plugins | Starred | Cursor plugin specification and official plugins |
+| [PlugMem](https://github.com/TIMAN-group/PlugMem) | https://github.com/TIMAN-group/PlugMem | Starred | ICML 2026 · Plug-and-play long-term memory for LLM agents |
 | [plur](https://github.com/plur-ai/plur) | https://github.com/plur-ai/plur | Starred | Shared memory for AI agents |
 | [py-webrtcvad](https://github.com/wiseman/py-webrtcvad) | https://github.com/wiseman/py-webrtcvad | Starred | Python interface to the WebRTC Voice Activity Detector |
 | [RAG-Anything](https://github.com/HKUDS/RAG-Anything) | https://github.com/HKUDS/RAG-Anything | Starred | "RAG-Anything: All-in-One RAG Framework" |
@@ -342,6 +343,7 @@ Whether it is a **Multimodal Collective**, a **Context Persistence Engine**, or 
 | [sec-gemini](https://github.com/google/sec-gemini) | https://github.com/google/sec-gemini | Starred | Sec-Gemini  is a cutting-edge AI model designed to enhance cybersecurity capabilities and empower defenders in the ongoing battle against cyber threats. |
 | [server](https://github.com/nextcloud/server) | https://github.com/nextcloud/server | Starred | ☁️ Nextcloud server, a safe home for all your data |
 | [servers](https://github.com/modelcontextprotocol/servers) | https://github.com/modelcontextprotocol/servers | Starred | Model Context Protocol Servers |
+| [shepherd](https://github.com/shepherd-agents/shepherd) | https://github.com/shepherd-agents/shepherd | Starred | A runtime substrate that turns an agent's execution into a reversible, Git-like trace, so meta-agents can observe, fork, replay, and revert any run. Couples agent and environments in a copy-on-write fork ~5x faster than docker commit, with ~95% KV-cache reuse on replay. Framework built for meta-agents to supervise, optimize, and train other agents |
 | [silero-vad](https://github.com/snakers4/silero-vad) | https://github.com/snakers4/silero-vad | Starred | Silero VAD: pre-trained enterprise-grade Voice Activity Detector |
 | [skills](https://github.com/NVIDIA/skills) | https://github.com/NVIDIA/skills | Starred | Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end. |
 | [skills](https://github.com/dotnet/skills) | https://github.com/dotnet/skills | Starred | Repository for skills to assist AI coding agents with .NET and C# |
