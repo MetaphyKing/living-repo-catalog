@@ -240,7 +240,7 @@ Whether it is a **Multimodal Collective**, a **Context Persistence Engine**, or 
 | [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | https://github.com/awesome-selfhosted/awesome-selfhosted | Starred | A list of Free Software network services and web applications which can be hosted on your own servers |
 | [awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) | https://github.com/paperswithbacktest/awesome-systematic-trading | Starred | A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading. |
 | [bermuda](https://github.com/agittins/bermuda) | https://github.com/agittins/bermuda | Starred | Bermuda Bluetooth/BLE Triangulation / Trilateration for HomeAssistant |
-| [blender-mcp](https://github.com/ahujasid/blender-mcp) | https://github.com/ahujasid/blender-mcp | Starred | Open-source MCP to use Blender with any LLM |
+| [blender-mcp](https://github.com/MCPBlender/blender-mcp) | https://github.com/MCPBlender/blender-mcp | Starred | 🎨 Control Blender 3D with Claude AI — prompt-driven 3D modeling, materials & scene generation via MCP |
 | [book-to-skill](https://github.com/virgiliojr94/book-to-skill) | https://github.com/virgiliojr94/book-to-skill | Starred | Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work. |
 | [browser-use](https://github.com/browser-use/browser-use) | https://github.com/browser-use/browser-use | Starred | 🌐 Make websites accessible for AI agents. Automate tasks online with ease. |
 | [buzz](https://github.com/block/buzz) | https://github.com/block/buzz | Starred | A hive mind communication platform |
@@ -334,7 +334,7 @@ Whether it is a **Multimodal Collective**, a **Context Persistence Engine**, or 
 | [RapidRAW](https://github.com/CyberTimon/RapidRAW) | https://github.com/CyberTimon/RapidRAW | Starred | A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind. |
 | [read-aloud](https://github.com/ken107/read-aloud) | https://github.com/ken107/read-aloud | Starred | An awesome browser extension that reads aloud webpage content with one click |
 | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) | https://github.com/CorentinJ/Real-Time-Voice-Cloning | Starred | Clone a voice in 5 seconds to generate arbitrary speech in real-time |
-| [reefy](https://github.com/reefyai/reefy) | https://github.com/reefyai/reefy | Starred | Turn your PC into a Reef - run OpenClaw, Ollama, and more on your own PC. Private. Local. Open source. Simple. |
+| [reefy](https://github.com/reefyai/reefy) | https://github.com/reefyai/reefy | Starred | The platform for AI computers |
 | [rlm](https://github.com/alexzhang13/rlm) | https://github.com/alexzhang13/rlm | Starred | General plug-and-play inference library for Recursive Language Models (RLMs), supporting various sandboxes. |
 | [rtk-hermes](https://github.com/ogallotti/rtk-hermes) | https://github.com/ogallotti/rtk-hermes | Starred | RTK plugin for Hermes — rewrites shell commands for 60-90% LLM token savings |
 | [ruflo](https://github.com/ruvnet/ruflo) | https://github.com/ruvnet/ruflo | Starred | 🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated |
@@ -362,7 +362,7 @@ Whether it is a **Multimodal Collective**, a **Context Persistence Engine**, or 
 | [TradingAgents](https://github.com/TauricResearch/TradingAgents) | https://github.com/TauricResearch/TradingAgents | Starred | TradingAgents: Multi-Agents LLM Financial Trading Framework |
 | [TransformerLens](https://github.com/TransformerLensOrg/TransformerLens) | https://github.com/TransformerLensOrg/TransformerLens | Starred | A library for mechanistic interpretability of GPT-style language models |
 | [Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) | https://github.com/Egonex-AI/Understand-Anything | Starred | Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. |
-| [unsloth](https://github.com/unslothai/unsloth) | https://github.com/unslothai/unsloth | Starred | Unsloth is a local UI for training and running Kimi K3, Gemma 4, Qwen3.6, DeepSeek-V4, GLM and other models. |
+| [unsloth](https://github.com/unslothai/unsloth) | https://github.com/unslothai/unsloth | Starred | The local UI to run and train text and diffusion models, including Kimi K3, Gemma 4, Qwen3.6, DeepSeek-V4, FLUX and more. |
 | [unsloth-zoo](https://github.com/unslothai/unsloth-zoo) | https://github.com/unslothai/unsloth-zoo | Starred | Utils for Unsloth https://github.com/unslothai/unsloth |
 | [VibeVoice](https://github.com/microsoft/VibeVoice) | https://github.com/microsoft/VibeVoice | Starred | Open-Source Frontier Voice AI |
 | [ViMax](https://github.com/HKUDS/ViMax) | https://github.com/HKUDS/ViMax | Starred | "ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)" |
