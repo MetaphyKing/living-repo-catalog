@@ -240,7 +240,6 @@ Whether it is a **Multimodal Collective**, a **Context Persistence Engine**, or 
 | [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | https://github.com/awesome-selfhosted/awesome-selfhosted | Starred | A list of Free Software network services and web applications which can be hosted on your own servers |
 | [awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) | https://github.com/paperswithbacktest/awesome-systematic-trading | Starred | A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading. |
 | [bermuda](https://github.com/agittins/bermuda) | https://github.com/agittins/bermuda | Starred | Bermuda Bluetooth/BLE Triangulation / Trilateration for HomeAssistant |
-| [blender-mcp](https://github.com/MCPBlender/blender-mcp) | https://github.com/MCPBlender/blender-mcp | Starred | 🎨 Control Blender 3D with Claude AI — prompt-driven 3D modeling, materials & scene generation via MCP |
 | [book-to-skill](https://github.com/virgiliojr94/book-to-skill) | https://github.com/virgiliojr94/book-to-skill | Starred | Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work. |
 | [browser-use](https://github.com/browser-use/browser-use) | https://github.com/browser-use/browser-use | Starred | 🌐 Make websites accessible for AI agents. Automate tasks online with ease. |
 | [buzz](https://github.com/block/buzz) | https://github.com/block/buzz | Starred | A hive mind communication platform |
