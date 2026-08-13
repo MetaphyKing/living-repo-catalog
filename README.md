@@ -240,7 +240,7 @@ Whether it is a **Multimodal Collective**, a **Context Persistence Engine**, or 
 | [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | https://github.com/awesome-selfhosted/awesome-selfhosted | Starred | A list of Free Software network services and web applications which can be hosted on your own servers |
 | [awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) | https://github.com/paperswithbacktest/awesome-systematic-trading | Starred | A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading. |
 | [bermuda](https://github.com/agittins/bermuda) | https://github.com/agittins/bermuda | Starred | Bermuda Bluetooth/BLE Triangulation / Trilateration for HomeAssistant |
-| [blender-mcp](https://github.com/ahujasid/blender-mcp) | https://github.com/ahujasid/blender-mcp | Starred | Control Blender 3D with any LLM of your choice |
+| [blender-mcp](https://github.com/ahujasid/blender-mcp) | https://github.com/ahujasid/blender-mcp | Starred | Community plugin to control Blender 3D with any LLM of your choice |
 | [book-to-skill](https://github.com/virgiliojr94/book-to-skill) | https://github.com/virgiliojr94/book-to-skill | Starred | Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work. |
 | [browser-use](https://github.com/browser-use/browser-use) | https://github.com/browser-use/browser-use | Starred | 🌐 Make websites accessible for AI agents. Automate tasks online with ease. |
 | [buzz](https://github.com/block/buzz) | https://github.com/block/buzz | Starred | A hive mind communication platform |
@@ -363,7 +363,7 @@ Whether it is a **Multimodal Collective**, a **Context Persistence Engine**, or 
 | [TradingAgents](https://github.com/TauricResearch/TradingAgents) | https://github.com/TauricResearch/TradingAgents | Starred | TradingAgents: Multi-Agents LLM Financial Trading Framework |
 | [TransformerLens](https://github.com/TransformerLensOrg/TransformerLens) | https://github.com/TransformerLensOrg/TransformerLens | Starred | A library for mechanistic interpretability of GPT-style language models |
 | [Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) | https://github.com/Egonex-AI/Understand-Anything | Starred | Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. |
-| [unsloth](https://github.com/unslothai/unsloth) | https://github.com/unslothai/unsloth | Starred | Local UI to run and train LLMs and diffusion models, including Kimi K3, MiniMax-H3, Gemma 4, Qwen3.6, DeepSeek-V4, FLUX and more. |
+| [unsloth](https://github.com/unslothai/unsloth) | https://github.com/unslothai/unsloth | Starred | Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more. |
 | [unsloth-zoo](https://github.com/unslothai/unsloth-zoo) | https://github.com/unslothai/unsloth-zoo | Starred | Utils for Unsloth https://github.com/unslothai/unsloth |
 | [VibeVoice](https://github.com/microsoft/VibeVoice) | https://github.com/microsoft/VibeVoice | Starred | Open-Source Frontier Voice AI |
 | [ViMax](https://github.com/HKUDS/ViMax) | https://github.com/HKUDS/ViMax | Starred | "ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)" |
