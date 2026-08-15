@@ -369,7 +369,7 @@ Whether it is a **Multimodal Collective**, a **Context Persistence Engine**, or 
 | [ViMax](https://github.com/HKUDS/ViMax) | https://github.com/HKUDS/ViMax | Starred | "ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)" |
 | [voice-chat](https://github.com/activated-intelligence/voice-chat) | https://github.com/activated-intelligence/voice-chat | Starred | 100% in-browser, hands-free AI voice chat using Whisper, WebLLM, and Supertonic TTS |
 | [voicebox](https://github.com/jamiepine/voicebox) | https://github.com/jamiepine/voicebox | Starred | The open-source AI voice studio. Clone, dictate, create. |
-| [VoiceStudio](https://github.com/debpalash/VoiceStudio) | https://github.com/debpalash/VoiceStudio | Starred | OmniVoice Studio is the Open-Source Elevenlabs alternative. AI Voice Clone, Dub, Dictate, Transcribe, Audiobook creator and Voice workflow studio. |
+| [VoiceStudio](https://github.com/debpalash/VoiceStudio) | https://github.com/debpalash/VoiceStudio | Starred | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. No accounts, no API keys, no cloud. |
 | [VoxCPM](https://github.com/OpenBMB/VoxCPM) | https://github.com/OpenBMB/VoxCPM | Starred | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning |
 | [Wan2.2](https://github.com/Wan-Video/Wan2.2) | https://github.com/Wan-Video/Wan2.2 | Starred | Wan: Open and Advanced Large-Scale Video Generative Models |
 | [x-algorithm](https://github.com/xai-org/x-algorithm) | https://github.com/xai-org/x-algorithm | Starred | Algorithm powering the For You feed on X |
