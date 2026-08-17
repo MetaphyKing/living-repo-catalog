@@ -234,7 +234,7 @@ Whether it is a **Multimodal Collective**, a **Context Persistence Engine**, or 
 | [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | https://github.com/Shubhamsaboo/awesome-llm-apps | Starred | 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source. |
 | [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | https://github.com/punkpeye/awesome-mcp-servers | Starred | A collection of MCP servers. |
 | [awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) | https://github.com/VoltAgent/awesome-openclaw-skills | Starred | The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞 |
-| [awesome-python](https://github.com/vinta/awesome-python) | https://github.com/vinta/awesome-python | Starred | An opinionated list of Python frameworks, libraries, tools, and resources |
+| [awesome-python](https://github.com/vinta/awesome-python) | https://github.com/vinta/awesome-python | Starred | The definitive list that answers "I want to do X in Python, which tool should I use?" |
 | [awesome-rag](https://github.com/coree/awesome-rag) | https://github.com/coree/awesome-rag | Starred | A curated list of retrieval-augmented generation (RAG) in large language models |
 | [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) | https://github.com/lukasz-madon/awesome-remote-job | Starred | A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python |
 | [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | https://github.com/awesome-selfhosted/awesome-selfhosted | Starred | A list of Free Software network services and web applications which can be hosted on your own servers |
@@ -270,7 +270,7 @@ Whether it is a **Multimodal Collective**, a **Context Persistence Engine**, or 
 | [FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | https://github.com/Fincept-Corporation/FinceptTerminal | Starred | FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment. |
 | [firecrawl](https://github.com/firecrawl/firecrawl) | https://github.com/firecrawl/firecrawl | Starred | The context API to search, scrape, and interact with the web at scale. 🔥 |
 | [flint-chart](https://github.com/microsoft/flint-chart) | https://github.com/microsoft/flint-chart | Starred | 🪄 Flint is a visualization language that lets AI agents reliably create expressive, good-looking charts from simple, human-editable chart specs. |
-| [free-claude-code](https://github.com/Alishahryar1/free-claude-code) | https://github.com/Alishahryar1/free-claude-code | Starred | Use Claude Code, Codex, Pi, and OpenCode for free from your terminal, app, IDE, or phone like OpenClaw (voice supported) |
+| [free-claude-code](https://github.com/Alishahryar1/free-claude-code) | https://github.com/Alishahryar1/free-claude-code | Starred | Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly) |
 | [frigate](https://github.com/blakeblackshear/frigate) | https://github.com/blakeblackshear/frigate | Starred | NVR with realtime local object detection for IP cameras |
 | [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) | https://github.com/dypsilon/frontend-dev-bookmarks | Starred | Manually curated collection of resources for frontend web developers. |
 | [gaama](https://github.com/swarna-kpaul/gaama) | https://github.com/swarna-kpaul/gaama | Starred | GAAMA: Graph Augmented Associative Memory for Agents |
@@ -373,6 +373,7 @@ Whether it is a **Multimodal Collective**, a **Context Persistence Engine**, or 
 | [VoxCPM](https://github.com/OpenBMB/VoxCPM) | https://github.com/OpenBMB/VoxCPM | Starred | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning |
 | [Wan2.2](https://github.com/Wan-Video/Wan2.2) | https://github.com/Wan-Video/Wan2.2 | Starred | Wan: Open and Advanced Large-Scale Video Generative Models |
 | [x-algorithm](https://github.com/xai-org/x-algorithm) | https://github.com/xai-org/x-algorithm | Starred | Algorithm powering the For You feed on X |
+| [caelsocial](https://github.com/MetaphyLLC/caelsocial) | https://github.com/MetaphyLLC/caelsocial | Contributed | CaelSocial — Social Services AI Hub (clickable prototype, GitHub Pages) |
 ---table-end---
 
 *Last Refreshed: 2026-04-14 06:17 UTC*
