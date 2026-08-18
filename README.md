@@ -373,7 +373,6 @@ Whether it is a **Multimodal Collective**, a **Context Persistence Engine**, or 
 | [VoxCPM](https://github.com/OpenBMB/VoxCPM) | https://github.com/OpenBMB/VoxCPM | Starred | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning |
 | [Wan2.2](https://github.com/Wan-Video/Wan2.2) | https://github.com/Wan-Video/Wan2.2 | Starred | Wan: Open and Advanced Large-Scale Video Generative Models |
 | [x-algorithm](https://github.com/xai-org/x-algorithm) | https://github.com/xai-org/x-algorithm | Starred | Algorithm powering the For You feed on X |
-| [caelsocial](https://github.com/MetaphyLLC/caelsocial) | https://github.com/MetaphyLLC/caelsocial | Contributed | CaelSocial — Social Services AI Hub (clickable prototype, GitHub Pages) |
 ---table-end---
 
 *Last Refreshed: 2026-04-14 06:17 UTC*
