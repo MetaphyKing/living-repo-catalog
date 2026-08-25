@@ -47,7 +47,6 @@ Whether it is a **Multimodal Collective**, a **Context Persistence Engine**, or 
 | [BugHuntEngine](https://github.com/MetaphyKing/BugHuntEngine) | https://github.com/MetaphyKing/BugHuntEngine | Owned | AutoProject: BugHuntEngine |
 | [BuildEngine](https://github.com/MetaphyKing/BuildEngine) | https://github.com/MetaphyKing/BuildEngine | Owned | AutoProject: BuildEngine |
 | [BuildEnvValidator](https://github.com/MetaphyKing/BuildEnvValidator) | https://github.com/MetaphyKing/BuildEnvValidator | Owned | AutoProject: BuildEnvValidator |
-| [cael-jobhub](https://github.com/MetaphyKing/cael-jobhub) | https://github.com/MetaphyKing/cael-jobhub | Owned | CAEL JobHub — honest resume studio, personal site, tracker, and social-services rail |
 | [cael-legal](https://github.com/MetaphyKing/cael-legal) | https://github.com/MetaphyKing/cael-legal | Owned | Public legal documents for the Cael Suite product line (privacy policies, data-safety disclosures). No source code. |
 | [ChangeLog](https://github.com/MetaphyKing/ChangeLog) | https://github.com/MetaphyKing/ChangeLog | Owned | AutoProject: ChangeLog |
 | [ChangeTracker](https://github.com/MetaphyKing/ChangeTracker) | https://github.com/MetaphyKing/ChangeTracker | Owned | AutoProject: ChangeTracker |
@@ -262,7 +261,7 @@ Whether it is a **Multimodal Collective**, a **Context Persistence Engine**, or 
 | [DeepAnalyze](https://github.com/ruc-datalab/DeepAnalyze) | https://github.com/ruc-datalab/DeepAnalyze | Starred | DeepAnalyze is the first agentic LLM for autonomous data science. 🎈你的AI数据分析师，自动分析大量数据，一键生成专业分析报告！ |
 | [deepface](https://github.com/serengil/deepface) | https://github.com/serengil/deepface | Starred | A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python |
 | [DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) | https://github.com/wonderwhy-er/DesktopCommanderMCP | Starred | This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities |
-| [docmd](https://github.com/docmd-io/docmd) | https://github.com/docmd-io/docmd | Starred | Build production-ready documentation from Markdown in seconds. No React, no bloat, just content. |
+| [docmd](https://github.com/docmd-io/docmd) | https://github.com/docmd-io/docmd | Starred | Documentation compiler for humans and machines. One Markdown source, one command — website, search, AI context, and knowledge formats together. |
 | [ego-lite](https://github.com/citrolabs/ego-lite) | https://github.com/citrolabs/ego-lite | Starred | The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config. |
 | [evolver](https://github.com/EvoMap/evolver) | https://github.com/EvoMap/evolver | Starred | The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai |
 | [Fabric](https://github.com/danielmiessler/Fabric) | https://github.com/danielmiessler/Fabric | Starred | Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere. |
