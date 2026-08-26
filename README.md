@@ -83,6 +83,7 @@ Whether it is a **Multimodal Collective**, a **Context Persistence Engine**, or 
 | [ErrorRecovery](https://github.com/MetaphyKing/ErrorRecovery) | https://github.com/MetaphyKing/ErrorRecovery | Owned | AutoProject: ErrorRecovery |
 | [FileDeduplicator](https://github.com/MetaphyKing/FileDeduplicator) | https://github.com/MetaphyKing/FileDeduplicator | Owned | AutoProject: FileDeduplicator |
 | [FileWatcher](https://github.com/MetaphyKing/FileWatcher) | https://github.com/MetaphyKing/FileWatcher | Owned | AutoProject: FileWatcher |
+| [gbsp](https://github.com/MetaphyKing/gbsp) | https://github.com/MetaphyKing/gbsp | Owned | GBSP — Grok Bot Swarm Protocol. Production multi-agent orchestration with formal verification, wave sizing, STORM adversarial research, and builder ≠ verifier discipline. |
 | [GitFlow](https://github.com/MetaphyKing/GitFlow) | https://github.com/MetaphyKing/GitFlow | Owned | AutoProject: GitFlow |
 | [GitPulse](https://github.com/MetaphyKing/GitPulse) | https://github.com/MetaphyKing/GitPulse | Owned | AutoProject: GitPulse |
 | [HashGuard](https://github.com/MetaphyKing/HashGuard) | https://github.com/MetaphyKing/HashGuard | Owned | AutoProject: HashGuard |
@@ -110,6 +111,7 @@ Whether it is a **Multimodal Collective**, a **Context Persistence Engine**, or 
 | [PathBridge](https://github.com/MetaphyKing/PathBridge) | https://github.com/MetaphyKing/PathBridge | Owned | AutoProject: PathBridge |
 | [PortManager](https://github.com/MetaphyKing/PortManager) | https://github.com/MetaphyKing/PortManager | Owned | AutoProject: PortManager |
 | [PostMortem](https://github.com/MetaphyKing/PostMortem) | https://github.com/MetaphyKing/PostMortem | Owned | AutoProject: PostMortem |
+| [praxis](https://github.com/MetaphyKing/praxis) | https://github.com/MetaphyKing/praxis | Owned | Praxis — Disciplined multi-agent protocol. One Director. The minimum Ensemble that finishes the current Cycle. Zero passengers. Independence Rule + Storm Canon. |
 | [PriorityQueue](https://github.com/MetaphyKing/PriorityQueue) | https://github.com/MetaphyKing/PriorityQueue | Owned | AutoProject: PriorityQueue |
 | [ProcessWatcher](https://github.com/MetaphyKing/ProcessWatcher) | https://github.com/MetaphyKing/ProcessWatcher | Owned | AutoProject: ProcessWatcher |
 | [ProfileScope](https://github.com/MetaphyKing/ProfileScope) | https://github.com/MetaphyKing/ProfileScope | Owned | AutoProject: ProfileScope |
@@ -277,7 +279,7 @@ Whether it is a **Multimodal Collective**, a **Context Persistence Engine**, or 
 | [get-shit-done](https://github.com/gsd-build/get-shit-done) | https://github.com/gsd-build/get-shit-done | Starred | A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES. |
 | [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) | https://github.com/tiimgreen/github-cheat-sheet | Starred | A list of cool features of Git and GitHub. |
 | [GitNexus](https://github.com/abhigyanpatwari/GitNexus) | https://github.com/abhigyanpatwari/GitNexus | Starred | GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration |
-| [Graft](https://github.com/NanoNets/Graft) | https://github.com/NanoNets/Graft | Starred | Turbocharge Claude Code, Cursor, Codex, Gemini & every coding agent: faster, cheaper, with contextual understanding specific to your codebase. |
+| [Graft](https://github.com/trailhq/Graft) | https://github.com/trailhq/Graft | Starred | Turbocharge Claude Code, Cursor, Codex, Gemini & every coding agent: faster, cheaper, with contextual understanding specific to your codebase. |
 | [grok-build](https://github.com/xai-org/grok-build) | https://github.com/xai-org/grok-build | Starred | SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible. |
 | [headroom](https://github.com/headroomlabs-ai/headroom) | https://github.com/headroomlabs-ai/headroom | Starred | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server. |
 | [hermes-agent](https://github.com/NousResearch/hermes-agent) | https://github.com/NousResearch/hermes-agent | Starred | The agent that grows with you |
