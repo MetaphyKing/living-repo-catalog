@@ -138,6 +138,7 @@ Whether it is a **Multimodal Collective**, a **Context Persistence Engine**, or 
 | [SmartNotes](https://github.com/MetaphyKing/SmartNotes) | https://github.com/MetaphyKing/SmartNotes | Owned | AutoProject: SmartNotes |
 | [SQLiteExplorer](https://github.com/MetaphyKing/SQLiteExplorer) | https://github.com/MetaphyKing/SQLiteExplorer | Owned | AutoProject: SQLiteExplorer |
 | [SQLSchemaDiff](https://github.com/MetaphyKing/SQLSchemaDiff) | https://github.com/MetaphyKing/SQLSchemaDiff | Owned | AutoProject: SQLSchemaDiff |
+| [stay](https://github.com/MetaphyKing/stay) | https://github.com/MetaphyKing/stay | Owned | Permanent context that is not the context window. |
 | [SubAgentForge](https://github.com/MetaphyKing/SubAgentForge) | https://github.com/MetaphyKing/SubAgentForge | Owned | AutoProject: SubAgentForge |
 | [SynapseInbox](https://github.com/MetaphyKing/SynapseInbox) | https://github.com/MetaphyKing/SynapseInbox | Owned | AutoProject: SynapseInbox |
 | [SynapseLink](https://github.com/MetaphyKing/SynapseLink) | https://github.com/MetaphyKing/SynapseLink | Owned | AutoProject: SynapseLink |
@@ -365,7 +366,7 @@ Whether it is a **Multimodal Collective**, a **Context Persistence Engine**, or 
 | [TradingAgents](https://github.com/TauricResearch/TradingAgents) | https://github.com/TauricResearch/TradingAgents | Starred | TradingAgents: Multi-Agents LLM Financial Trading Framework |
 | [TransformerLens](https://github.com/TransformerLensOrg/TransformerLens) | https://github.com/TransformerLensOrg/TransformerLens | Starred | A library for mechanistic interpretability of GPT-style language models |
 | [Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) | https://github.com/Egonex-AI/Understand-Anything | Starred | Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. |
-| [unsloth](https://github.com/unslothai/unsloth) | https://github.com/unslothai/unsloth | Starred | Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, FLUX and more. |
+| [unsloth](https://github.com/unslothai/unsloth) | https://github.com/unslothai/unsloth | Starred | Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more. |
 | [unsloth-zoo](https://github.com/unslothai/unsloth-zoo) | https://github.com/unslothai/unsloth-zoo | Starred | Utils for Unsloth https://github.com/unslothai/unsloth |
 | [VibeVoice](https://github.com/microsoft/VibeVoice) | https://github.com/microsoft/VibeVoice | Starred | Open-Source Frontier Voice AI |
 | [ViMax](https://github.com/HKUDS/ViMax) | https://github.com/HKUDS/ViMax | Starred | "ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)" |
