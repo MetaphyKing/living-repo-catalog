@@ -162,6 +162,7 @@ Whether it is a **Multimodal Collective**, a **Context Persistence Engine**, or 
 | [TokenTracker](https://github.com/MetaphyKing/TokenTracker) | https://github.com/MetaphyKing/TokenTracker | Owned | AutoProject: TokenTracker |
 | [ToolRegistry](https://github.com/MetaphyKing/ToolRegistry) | https://github.com/MetaphyKing/ToolRegistry | Owned | AutoProject: ToolRegistry |
 | [ToolSentinel](https://github.com/MetaphyKing/ToolSentinel) | https://github.com/MetaphyKing/ToolSentinel | Owned | AutoProject: ToolSentinel |
+| [uaimc-lite](https://github.com/MetaphyKing/uaimc-lite) | https://github.com/MetaphyKing/uaimc-lite | Owned | UAIMC-Lite GBC fixture package. Mouth-caps first. Not live :8767. |
 | [VersionGuard](https://github.com/MetaphyKing/VersionGuard) | https://github.com/MetaphyKing/VersionGuard | Owned | AutoProject: VersionGuard |
 | [VitalHeart](https://github.com/MetaphyKing/VitalHeart) | https://github.com/MetaphyKing/VitalHeart | Owned | AutoProject: VitalHeart |
 | [VoteTally](https://github.com/MetaphyKing/VoteTally) | https://github.com/MetaphyKing/VoteTally | Owned | AutoProject: VoteTally |
@@ -264,7 +265,7 @@ Whether it is a **Multimodal Collective**, a **Context Persistence Engine**, or 
 | [DeepAnalyze](https://github.com/ruc-datalab/DeepAnalyze) | https://github.com/ruc-datalab/DeepAnalyze | Starred | DeepAnalyze is the first agentic LLM for autonomous data science. 🎈你的AI数据分析师，自动分析大量数据，一键生成专业分析报告！ |
 | [deepface](https://github.com/serengil/deepface) | https://github.com/serengil/deepface | Starred | A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python |
 | [DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) | https://github.com/wonderwhy-er/DesktopCommanderMCP | Starred | This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities |
-| [docmd](https://github.com/docmd-io/docmd) | https://github.com/docmd-io/docmd | Starred | Documentation compiler for humans and machines. One Markdown source, one command — website, search, AI context, and knowledge formats together. |
+| [docmd](https://github.com/docmd-io/docmd) | https://github.com/docmd-io/docmd | Starred | Documentation compiler for humans and machines. One Markdown source to website, search, AI context, and knowledge formats together. |
 | [ego-lite](https://github.com/citrolabs/ego-lite) | https://github.com/citrolabs/ego-lite | Starred | The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config. |
 | [evolver](https://github.com/EvoMap/evolver) | https://github.com/EvoMap/evolver | Starred | The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai |
 | [Fabric](https://github.com/danielmiessler/Fabric) | https://github.com/danielmiessler/Fabric | Starred | Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere. |
@@ -316,7 +317,7 @@ Whether it is a **Multimodal Collective**, a **Context Persistence Engine**, or 
 | [open-code-review](https://github.com/alibaba/open-code-review) | https://github.com/alibaba/open-code-review | Starred | Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. |
 | [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) | https://github.com/serhii-londar/open-source-mac-os-apps | Starred | 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps |
 | [openagi](https://github.com/aiplanethub/openagi) | https://github.com/aiplanethub/openagi | Starred | Paving the way for open agents and AGI for all. |
-| [openclaw](https://github.com/openclaw/openclaw) | https://github.com/openclaw/openclaw | Starred | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 |
+| [openclaw](https://github.com/openclaw/openclaw) | https://github.com/openclaw/openclaw | Starred | The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 |
 | [OpenHands](https://github.com/OpenHands/OpenHands) | https://github.com/OpenHands/OpenHands | Starred | 🙌 OpenHands: AI-Driven Development |
 | [openhuman](https://github.com/tinyhumansai/openhuman) | https://github.com/tinyhumansai/openhuman | Starred | Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher. |
 | [OpenJarvis](https://github.com/open-jarvis/OpenJarvis) | https://github.com/open-jarvis/OpenJarvis | Starred | Personal AI, On Personal Devices |
