@@ -319,7 +319,7 @@ Whether it is a **Multimodal Collective**, a **Context Persistence Engine**, or 
 | [openagi](https://github.com/aiplanethub/openagi) | https://github.com/aiplanethub/openagi | Starred | Paving the way for open agents and AGI for all. |
 | [openclaw](https://github.com/openclaw/openclaw) | https://github.com/openclaw/openclaw | Starred | The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 |
 | [OpenHands](https://github.com/OpenHands/OpenHands) | https://github.com/OpenHands/OpenHands | Starred | 🙌 OpenHands: AI-Driven Development |
-| [openhuman](https://github.com/tinyhumansai/openhuman) | https://github.com/tinyhumansai/openhuman | Starred | Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher. |
+| [openhuman](https://github.com/tinyhumansai/openhuman) | https://github.com/tinyhumansai/openhuman | Starred | OpenHuman is an open source personal AI for Mac, Windows and Linux — local-first memory, agent orchestration, and deep research. |
 | [OpenJarvis](https://github.com/open-jarvis/OpenJarvis) | https://github.com/open-jarvis/OpenJarvis | Starred | Personal AI, On Personal Devices |
 | [OpenManus](https://github.com/FoundationAgents/OpenManus) | https://github.com/FoundationAgents/OpenManus | Starred | No fortress, purely open ground.  OpenManus is Coming. |
 | [OpenMontage](https://github.com/calesthio/OpenMontage) | https://github.com/calesthio/OpenMontage | Starred | World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio. |
