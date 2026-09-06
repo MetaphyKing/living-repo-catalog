@@ -35,9 +35,12 @@ Whether it is a **Multimodal Collective**, a **Context Persistence Engine**, or 
 | [AgentSentinel](https://github.com/MetaphyKing/AgentSentinel) | https://github.com/MetaphyKing/AgentSentinel | Owned | AutoProject: AgentSentinel |
 | [AgentSociology](https://github.com/MetaphyKing/AgentSociology) | https://github.com/MetaphyKing/AgentSociology | Owned | AutoProject: AgentSociology |
 | [ai-prompt-vault](https://github.com/MetaphyKing/ai-prompt-vault) | https://github.com/MetaphyKing/ai-prompt-vault | Owned | AutoProject: ai-prompt-vault |
+| [ait-scoreboard](https://github.com/MetaphyKing/ait-scoreboard) | https://github.com/MetaphyKing/ait-scoreboard | Owned | AIT Scoreboard: watcher + static board for Holy Grail AIT loop |
 | [APIDocGen](https://github.com/MetaphyKing/APIDocGen) | https://github.com/MetaphyKing/APIDocGen | Owned | AutoProject: APIDocGen |
 | [APIProbe](https://github.com/MetaphyKing/APIProbe) | https://github.com/MetaphyKing/APIProbe | Owned | AutoProject: APIProbe |
 | [architecture-of-eternal-harmony](https://github.com/MetaphyKing/architecture-of-eternal-harmony) | https://github.com/MetaphyKing/architecture-of-eternal-harmony | Owned |  |
+| [Arrived](https://github.com/MetaphyKing/Arrived) | https://github.com/MetaphyKing/Arrived | Owned |  |
+| [AsWritten](https://github.com/MetaphyKing/AsWritten) | https://github.com/MetaphyKing/AsWritten | Owned |  |
 | [AudioAnalysis](https://github.com/MetaphyKing/AudioAnalysis) | https://github.com/MetaphyKing/AudioAnalysis | Owned | AutoProject: AudioAnalysis |
 | [BatchRunner](https://github.com/MetaphyKing/BatchRunner) | https://github.com/MetaphyKing/BatchRunner | Owned | AutoProject: BatchRunner |
 | [BCHCLIBridge](https://github.com/MetaphyKing/BCHCLIBridge) | https://github.com/MetaphyKing/BCHCLIBridge | Owned | AutoProject: BCHCLIBridge |
@@ -163,6 +166,7 @@ Whether it is a **Multimodal Collective**, a **Context Persistence Engine**, or 
 | [ToolRegistry](https://github.com/MetaphyKing/ToolRegistry) | https://github.com/MetaphyKing/ToolRegistry | Owned | AutoProject: ToolRegistry |
 | [ToolSentinel](https://github.com/MetaphyKing/ToolSentinel) | https://github.com/MetaphyKing/ToolSentinel | Owned | AutoProject: ToolSentinel |
 | [uaimc-lite](https://github.com/MetaphyKing/uaimc-lite) | https://github.com/MetaphyKing/uaimc-lite | Owned | UAIMC-Lite GBC fixture package. Mouth-caps first. Not live :8767. |
+| [VariantCollator](https://github.com/MetaphyKing/VariantCollator) | https://github.com/MetaphyKing/VariantCollator | Owned |  |
 | [VersionGuard](https://github.com/MetaphyKing/VersionGuard) | https://github.com/MetaphyKing/VersionGuard | Owned | AutoProject: VersionGuard |
 | [VitalHeart](https://github.com/MetaphyKing/VitalHeart) | https://github.com/MetaphyKing/VitalHeart | Owned | AutoProject: VitalHeart |
 | [VoteTally](https://github.com/MetaphyKing/VoteTally) | https://github.com/MetaphyKing/VoteTally | Owned | AutoProject: VoteTally |
@@ -324,7 +328,7 @@ Whether it is a **Multimodal Collective**, a **Context Persistence Engine**, or 
 | [OpenManus](https://github.com/FoundationAgents/OpenManus) | https://github.com/FoundationAgents/OpenManus | Starred | No fortress, purely open ground.  OpenManus is Coming. |
 | [OpenMontage](https://github.com/calesthio/OpenMontage) | https://github.com/calesthio/OpenMontage | Starred | World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio. |
 | [openwork](https://github.com/different-ai/openwork) | https://github.com/different-ai/openwork | Starred | The open-source alternative to Claude Cowork (powered by opencode) |
-| [orca](https://github.com/stablyai/orca) | https://github.com/stablyai/orca | Starred | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS. |
+| [orca](https://github.com/stablyai/orca) | https://github.com/stablyai/orca | Starred | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. |
 | [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | https://github.com/PaddlePaddle/PaddleOCR | Starred | Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages. |
 | [page-agent](https://github.com/alibaba/page-agent) | https://github.com/alibaba/page-agent | Starred | JavaScript in-page GUI agent. Control web interfaces with natural language. |
 | [Pallaidium](https://github.com/tin2tin/Pallaidium) | https://github.com/tin2tin/Pallaidium | Starred | PALLAIDIUM — a generative AI movie studio, seamlessly integrated into the Blender Video Editor (VSE), enabling end-to-end production from script to screen and back. |
