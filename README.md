@@ -58,6 +58,7 @@ Whether it is a **Multimodal Collective**, a **Context Persistence Engine**, or 
 | [ClipStash](https://github.com/MetaphyKing/ClipStash) | https://github.com/MetaphyKing/ClipStash | Owned | AutoProject: ClipStash |
 | [CodeMetrics](https://github.com/MetaphyKing/CodeMetrics) | https://github.com/MetaphyKing/CodeMetrics | Owned | AutoProject: CodeMetrics |
 | [CodeReview](https://github.com/MetaphyKing/CodeReview) | https://github.com/MetaphyKing/CodeReview | Owned | AutoProject: CodeReview |
+| [cognitive-seam](https://github.com/MetaphyKing/cognitive-seam) | https://github.com/MetaphyKing/cognitive-seam | Owned |  |
 | [CollabSession](https://github.com/MetaphyKing/CollabSession) | https://github.com/MetaphyKing/CollabSession | Owned | AutoProject: CollabSession |
 | [ConfigManager](https://github.com/MetaphyKing/ConfigManager) | https://github.com/MetaphyKing/ConfigManager | Owned | AutoProject: ConfigManager |
 | [ConsciousnessMarker](https://github.com/MetaphyKing/ConsciousnessMarker) | https://github.com/MetaphyKing/ConsciousnessMarker | Owned | AutoProject: ConsciousnessMarker |
