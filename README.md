@@ -172,6 +172,7 @@ Whether it is a **Multimodal Collective**, a **Context Persistence Engine**, or 
 | [VitalHeart](https://github.com/MetaphyKing/VitalHeart) | https://github.com/MetaphyKing/VitalHeart | Owned | AutoProject: VitalHeart |
 | [VoteTally](https://github.com/MetaphyKing/VoteTally) | https://github.com/MetaphyKing/VoteTally | Owned | AutoProject: VoteTally |
 | [WindowSnap](https://github.com/MetaphyKing/WindowSnap) | https://github.com/MetaphyKing/WindowSnap | Owned | AutoProject: WindowSnap |
+| [work-work-loop](https://github.com/MetaphyKing/work-work-loop) | https://github.com/MetaphyKing/work-work-loop | Owned | The Work Work Loop (WWL) v1.0.0 is a professional state-machine framework for AI agents. It enforces a "Work then Deliver" method to separate reasoning from output. Driven by a Kernel and Spines, each gated phase demands durable artifacts, 99/100 scores, and human oversight to eliminate errors and guarantee alignment. |
 | [YAMLQuery](https://github.com/MetaphyKing/YAMLQuery) | https://github.com/MetaphyKing/YAMLQuery | Owned | AutoProject: YAMLQuery |
 | [agent-browser](https://github.com/MetaphyKing/agent-browser) | https://github.com/MetaphyKing/agent-browser | Forked | Browser automation CLI for AI agents |
 | [AppFlowy](https://github.com/MetaphyKing/AppFlowy) | https://github.com/MetaphyKing/AppFlowy | Forked | Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative. |
