@@ -83,6 +83,7 @@ Whether it is a **Multimodal Collective**, a **Context Persistence Engine**, or 
 | [EnvGuard](https://github.com/MetaphyKing/EnvGuard) | https://github.com/MetaphyKing/EnvGuard | Owned | AutoProject: EnvGuard |
 | [EnvManager](https://github.com/MetaphyKing/EnvManager) | https://github.com/MetaphyKing/EnvManager | Owned | AutoProject: EnvManager |
 | [EnvSync](https://github.com/MetaphyKing/EnvSync) | https://github.com/MetaphyKing/EnvSync | Owned | AutoProject: EnvSync |
+| [epochbound](https://github.com/MetaphyKing/epochbound) | https://github.com/MetaphyKing/epochbound | Owned | EPOCHBOUND MMO — Two-Era Bound language proto + Grok Build handoff. Original IP. |
 | [EquationForge](https://github.com/MetaphyKing/EquationForge) | https://github.com/MetaphyKing/EquationForge | Owned | AutoProject: EquationForge |
 | [ErrorRecovery](https://github.com/MetaphyKing/ErrorRecovery) | https://github.com/MetaphyKing/ErrorRecovery | Owned | AutoProject: ErrorRecovery |
 | [FileDeduplicator](https://github.com/MetaphyKing/FileDeduplicator) | https://github.com/MetaphyKing/FileDeduplicator | Owned | AutoProject: FileDeduplicator |
