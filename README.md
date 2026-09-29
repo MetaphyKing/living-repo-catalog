@@ -316,7 +316,7 @@ Whether it is a **Multimodal Collective**, a **Context Persistence Engine**, or 
 | [ml-intern](https://github.com/huggingface/ml-intern) | https://github.com/huggingface/ml-intern | Starred | Archived — ML Intern is no longer maintained. Continue with HuggingChat. |
 | [MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | https://github.com/FujiwaraChoki/MoneyPrinterV2 | Starred | Automate the process of making money online. |
 | [n8n](https://github.com/n8n-io/n8n) | https://github.com/n8n-io/n8n | Starred | Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. |
-| [nango](https://github.com/NangoHQ/nango) | https://github.com/NangoHQ/nango | Starred | Build product integrations with AI. |
+| [nango](https://github.com/NangoHQ/nango) | https://github.com/NangoHQ/nango | Starred | Connect your agents & product to 1,000 APIs. |
 | [notebooks](https://github.com/unslothai/notebooks) | https://github.com/unslothai/notebooks | Starred | 250+ Fine-tuning & RL Notebooks for text, vision, audio, embedding, TTS models. |
 | [obs-studio](https://github.com/obsproject/obs-studio) | https://github.com/obsproject/obs-studio | Starred | OBS Studio - Free and open source software for live streaming and screen recording |
 | [OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | https://github.com/iOfficeAI/OfficeCLI | Starred | OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required. |
