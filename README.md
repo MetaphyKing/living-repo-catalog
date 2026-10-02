@@ -339,7 +339,7 @@ Whether it is a **Multimodal Collective**, a **Context Persistence Engine**, or 
 | [Pixelle-Video](https://github.com/ATH-MaaS/Pixelle-Video) | https://github.com/ATH-MaaS/Pixelle-Video | Starred | 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine |
 | [playwright-mcp](https://github.com/microsoft/playwright-mcp) | https://github.com/microsoft/playwright-mcp | Starred | Playwright MCP server |
 | [plugins](https://github.com/cursor/plugins) | https://github.com/cursor/plugins | Starred | Cursor plugin specification and official plugins |
-| [PlugMem](https://github.com/TIMAN-group/PlugMem) | https://github.com/TIMAN-group/PlugMem | Starred | ICML 2026 · Plug-and-play long-term memory for LLM agents |
+| [PlugMem](https://github.com/TIMAN-group/PlugMem) | https://github.com/TIMAN-group/PlugMem | Starred | ICML 2026 | PALM@NeurIPS2026 Oral | Plug-and-play long-term memory for LLM agents |
 | [plur](https://github.com/plur-ai/plur) | https://github.com/plur-ai/plur | Starred | Shared memory for AI agents |
 | [py-webrtcvad](https://github.com/wiseman/py-webrtcvad) | https://github.com/wiseman/py-webrtcvad | Starred | Python interface to the WebRTC Voice Activity Detector |
 | [RAG-Anything](https://github.com/HKUDS/RAG-Anything) | https://github.com/HKUDS/RAG-Anything | Starred | "RAG-Anything: All-in-One RAG Framework" |
