@@ -42,6 +42,7 @@ Whether it is a **Multimodal Collective**, a **Context Persistence Engine**, or 
 | [Arrived](https://github.com/MetaphyKing/Arrived) | https://github.com/MetaphyKing/Arrived | Owned |  |
 | [AsWritten](https://github.com/MetaphyKing/AsWritten) | https://github.com/MetaphyKing/AsWritten | Owned |  |
 | [AudioAnalysis](https://github.com/MetaphyKing/AudioAnalysis) | https://github.com/MetaphyKing/AudioAnalysis | Owned | AutoProject: AudioAnalysis |
+| [bama-cortical-report](https://github.com/MetaphyKing/bama-cortical-report) | https://github.com/MetaphyKing/bama-cortical-report | Owned | Bare-Metal Agentic Memory Architecture (BAMA v3.1): Zero-Decompression 256-Byte Cortical Graphs in Q(sqrt(5)), 90/10 NBCW Split & 4-Tier Cognitive Compilation (U.S. Patent Pending 64/180,009) |
 | [BatchRunner](https://github.com/MetaphyKing/BatchRunner) | https://github.com/MetaphyKing/BatchRunner | Owned | AutoProject: BatchRunner |
 | [BCHCLIBridge](https://github.com/MetaphyKing/BCHCLIBridge) | https://github.com/MetaphyKing/BCHCLIBridge | Owned | AutoProject: BCHCLIBridge |
 | [BenchmarkSuite](https://github.com/MetaphyKing/BenchmarkSuite) | https://github.com/MetaphyKing/BenchmarkSuite | Owned | AutoProject: BenchmarkSuite |
@@ -54,6 +55,7 @@ Whether it is a **Multimodal Collective**, a **Context Persistence Engine**, or 
 | [ChangeLog](https://github.com/MetaphyKing/ChangeLog) | https://github.com/MetaphyKing/ChangeLog | Owned | AutoProject: ChangeLog |
 | [ChangeTracker](https://github.com/MetaphyKing/ChangeTracker) | https://github.com/MetaphyKing/ChangeTracker | Owned | AutoProject: ChangeTracker |
 | [CheckerAccountability](https://github.com/MetaphyKing/CheckerAccountability) | https://github.com/MetaphyKing/CheckerAccountability | Owned | AutoProject: CheckerAccountability |
+| [chord-sieves-report](https://github.com/MetaphyKing/chord-sieves-report) | https://github.com/MetaphyKing/chord-sieves-report | Owned |  |
 | [ClipStack](https://github.com/MetaphyKing/ClipStack) | https://github.com/MetaphyKing/ClipStack | Owned | AutoProject: ClipStack |
 | [ClipStash](https://github.com/MetaphyKing/ClipStash) | https://github.com/MetaphyKing/ClipStash | Owned | AutoProject: ClipStash |
 | [CodeMetrics](https://github.com/MetaphyKing/CodeMetrics) | https://github.com/MetaphyKing/CodeMetrics | Owned | AutoProject: CodeMetrics |
