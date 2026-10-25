@@ -95,6 +95,7 @@ Whether it is a **Multimodal Collective**, a **Context Persistence Engine**, or 
 | [GitPulse](https://github.com/MetaphyKing/GitPulse) | https://github.com/MetaphyKing/GitPulse | Owned | AutoProject: GitPulse |
 | [HashGuard](https://github.com/MetaphyKing/HashGuard) | https://github.com/MetaphyKing/HashGuard | Owned | AutoProject: HashGuard |
 | [HunterEngine](https://github.com/MetaphyKing/HunterEngine) | https://github.com/MetaphyKing/HunterEngine | Owned | AutoProject: HunterEngine |
+| [hysteretic-diffusion-model](https://github.com/MetaphyKing/hysteretic-diffusion-model) | https://github.com/MetaphyKing/hysteretic-diffusion-model | Owned | Interactive 3D Emotional Topography & Intervention Lab for the DEAR and Hysteretic Diffusion framework. Visualizes affective manifolds, score vector fields, and topological rehabilitation protocols for pathological affective states on a golden-ratio dodecahedral manifold. |
 | [IdentityResolver](https://github.com/MetaphyKing/IdentityResolver) | https://github.com/MetaphyKing/IdentityResolver | Owned | AutoProject: IdentityResolver |
 | [JSONQuery](https://github.com/MetaphyKing/JSONQuery) | https://github.com/MetaphyKing/JSONQuery | Owned | AutoProject: JSONQuery |
 | [KnowledgeSync](https://github.com/MetaphyKing/KnowledgeSync) | https://github.com/MetaphyKing/KnowledgeSync | Owned | AutoProject: KnowledgeSync |
