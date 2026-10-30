@@ -347,7 +347,7 @@ Whether it is a **Multimodal Collective**, a **Context Persistence Engine**, or 
 | [py-webrtcvad](https://github.com/wiseman/py-webrtcvad) | https://github.com/wiseman/py-webrtcvad | Starred | Python interface to the WebRTC Voice Activity Detector |
 | [RAG-Anything](https://github.com/HKUDS/RAG-Anything) | https://github.com/HKUDS/RAG-Anything | Starred | "RAG-Anything: All-in-One RAG Framework" |
 | [RapidRAW](https://github.com/CyberTimon/RapidRAW) | https://github.com/CyberTimon/RapidRAW | Starred | A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind. |
-| [read-aloud](https://github.com/ken107/read-aloud) | https://github.com/ken107/read-aloud | Starred | An awesome browser extension that reads aloud webpage content with one click |
+| [read-aloud](https://github.com/Read-Aloud/read-aloud) | https://github.com/Read-Aloud/read-aloud | Starred | An awesome browser extension that reads aloud webpage content with one click |
 | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) | https://github.com/CorentinJ/Real-Time-Voice-Cloning | Starred | Clone a voice in 5 seconds to generate arbitrary speech in real-time |
 | [reefy](https://github.com/reefyai/reefy) | https://github.com/reefyai/reefy | Starred | The platform for AI computers |
 | [rlm](https://github.com/alexzhang13/rlm) | https://github.com/alexzhang13/rlm | Starred | General plug-and-play inference library for Recursive Language Models (RLMs), supporting various sandboxes. |
