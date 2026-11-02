@@ -56,6 +56,7 @@ Whether it is a **Multimodal Collective**, a **Context Persistence Engine**, or 
 | [ChangeTracker](https://github.com/MetaphyKing/ChangeTracker) | https://github.com/MetaphyKing/ChangeTracker | Owned | AutoProject: ChangeTracker |
 | [CheckerAccountability](https://github.com/MetaphyKing/CheckerAccountability) | https://github.com/MetaphyKing/CheckerAccountability | Owned | AutoProject: CheckerAccountability |
 | [chord-sieves-report](https://github.com/MetaphyKing/chord-sieves-report) | https://github.com/MetaphyKing/chord-sieves-report | Owned |  |
+| [chrono-torque-report](https://github.com/MetaphyKing/chrono-torque-report) | https://github.com/MetaphyKing/chrono-torque-report | Owned | CHRONO-TORQUE (/gto v2.0): Non-Zero-Sum Compound Gear-Train Optimizer, Zero-Decompression Z[phi] Cortical Memory & Sub-10^-16 Hyperbolic Quantum Magic State Cultivation (Metaphy LLC) |
 | [ClipStack](https://github.com/MetaphyKing/ClipStack) | https://github.com/MetaphyKing/ClipStack | Owned | AutoProject: ClipStack |
 | [ClipStash](https://github.com/MetaphyKing/ClipStash) | https://github.com/MetaphyKing/ClipStash | Owned | AutoProject: ClipStash |
 | [CodeMetrics](https://github.com/MetaphyKing/CodeMetrics) | https://github.com/MetaphyKing/CodeMetrics | Owned | AutoProject: CodeMetrics |
