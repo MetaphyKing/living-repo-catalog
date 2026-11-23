@@ -127,6 +127,8 @@ Whether it is a **Multimodal Collective**, a **Context Persistence Engine**, or 
 | [ProfileScope](https://github.com/MetaphyKing/ProfileScope) | https://github.com/MetaphyKing/ProfileScope | Owned | AutoProject: ProfileScope |
 | [ProjForge](https://github.com/MetaphyKing/ProjForge) | https://github.com/MetaphyKing/ProjForge | Owned | AutoProject: ProjForge |
 | [ProtocolAnalyzer](https://github.com/MetaphyKing/ProtocolAnalyzer) | https://github.com/MetaphyKing/ProtocolAnalyzer | Owned | AutoProject: ProtocolAnalyzer |
+| [qm-qegg-3d-dram-report](https://github.com/MetaphyKing/qm-qegg-3d-dram-report) | https://github.com/MetaphyKing/qm-qegg-3d-dram-report | Owned | QM-QEGG-3D-DRAM (v12.1): Multiplier-Less Z[phi] 3D-Stacked Logic-in-Memory & Blind Catalan [144,12,d=52] QEC Public Verifier (Metaphy LLC) |
+| [qm144l-v3-1-report](https://github.com/MetaphyKing/qm144l-v3-1-report) | https://github.com/MetaphyKing/qm144l-v3-1-report | Owned | QM144L (144L v3.1.0): Simultaneous Dual-Track 3,154-Byte Sealed Q-CELL Coordinator & Blind Catalan [144,12,60] Public Verifier (Metaphy LLC) |
 | [quick-env-switcher](https://github.com/MetaphyKing/quick-env-switcher) | https://github.com/MetaphyKing/quick-env-switcher | Owned | AutoProject: quick-env-switcher |
 | [QuickBackup](https://github.com/MetaphyKing/QuickBackup) | https://github.com/MetaphyKing/QuickBackup | Owned | AutoProject: QuickBackup |
 | [QuickClip](https://github.com/MetaphyKing/QuickClip) | https://github.com/MetaphyKing/QuickClip | Owned | AutoProject: QuickClip |
